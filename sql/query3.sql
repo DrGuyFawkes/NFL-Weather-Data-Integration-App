@@ -20,8 +20,8 @@
     -- temperature_2m as temperature: The temperature at 2 meters above ground level during the game.
     -- relative_humidity_2m as humidity: The relative humidity at 2 meters above ground level during the game.
     -- precipitation: The amount of precipitation during the game.
-    -- 'open-meteo' as weather_data_source: A static field indicating the source of the weather data.
-    -- 'hourly' as weather_data_type: A static field indicating the type of weather data (hourly).
+    -- weather_data_source: A static field indicating the source of the weather data.
+    -- weather_data_type: A static field indicating the type of weather data (hourly).
 -- Usage:
     -- The query focuses on extreme weather conditions, making it useful for analyzing how such conditions may have affected game outcomes.
 -- Query:
