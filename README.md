@@ -2,6 +2,8 @@
 
 This project integrates game day weather data into an internal application for NFL games. The application retrieves historical weather data using the Open Meteo weather API and combines it with NFL game and venue information to provide insights through SQL queries. The project is containerized using Docker for easy setup and deployment.
 
+![Alt text](assets/nfl_weather_query_app.png)
+
 ## Project Structure
 
 ```
