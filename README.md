@@ -37,6 +37,12 @@ This project integrates game day weather data into an internal application for N
 │   └── weather_data.db
 ├── assets
 │   └── nfl_weather_query_app.png
+├── sql
+│   ├── query1.sql
+│   ├── query2.sql
+│   ├── query3.sql
+│   ├── query4.sql
+│   └── query5.sql
 ├── __init__.py
 ├── Dockerfile
 ├── requirements.txt
