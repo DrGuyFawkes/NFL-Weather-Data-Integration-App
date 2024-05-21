@@ -118,17 +118,37 @@ The Flask application provides a web interface to execute SQL queries on the SQL
 **Tables**
 1. **games**
    - `uuid`: Unique identifier for the game
+   - `season`
+   - `game_date`
+   - `game_site`
+   - `home_team`
+   - `visit_team`
    - Additional fields...
 2. **venues**
    - `uuid`: Unique identifier for the venue
+   - `name`
+   - `location`
+   - `teams`
+   - `geo`
+   - `roof_type`
    - Additional fields...
 3. **hourly_weather**
    - `game_uuid`: Unique identifier for the game (foreign key)
    - `venue_uuid`: Unique identifier for the venue (foreign key)
+   - `date`
+   - `temperature_2m`
+   - `relative_humidity_2m`
+   - `precipitation`
+   - `wind_speed_10m`
    - Additional fields...
 4. **daily_weather**
    - `game_uuid`: Unique identifier for the game (foreign key)
    - `venue_uuid`: Unique identifier for the venue (foreign key)
+   - `date`
+   - `weather_code`
+   - `temperature_2m_max`
+   - `temperature_2m_min`
+   - `temperature_2m_mean`
    - Additional fields...
 
 **Relationships**
