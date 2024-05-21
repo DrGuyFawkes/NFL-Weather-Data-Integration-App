@@ -152,6 +152,9 @@ Use the web interface to execute SQL queries on the combined NFL game and weathe
 - Ensure the data files (`Venues.csv`, `Games.csv`) are placed in the `data` directory before running the setup scripts.
 - Adjust API request limits and other parameters in the scripts as needed.
 
+### References
+- **Open Meteo API Documentation**: [Open Meteo API](https://open-meteo.com/en/docs)
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
