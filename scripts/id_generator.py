@@ -2,6 +2,18 @@ import pandas as pd
 import hashlib
 import uuid
 import os
+import pytz
+from datetime import datetime, timedelta
+
+# Function to convert to GMT datetime string
+def convert_to_gmt(row):
+    # Combine game_date and start_time into a single datetime object
+    local_time = datetime.strptime(f"{row['Game_Date']} {row['Start_Time']}", "%m/%d/%Y %H:%M")
+    # Apply the GMT offset
+    gmt_time = local_time - timedelta(hours=row['Start_Time_GMT_Offset'])
+    # Convert to GMT time and format as a string
+    gmt_time = gmt_time.replace(tzinfo=pytz.FixedOffset(0))
+    return gmt_time.strftime("%Y-%m-%d %H:%M:%S+00:00")
 
 def generate_uuid_from_row(row, columns):
     concatenated = ''.join(str(row[col]) for col in columns)
@@ -20,6 +32,9 @@ try:
 except FileNotFoundError as e:
     print(f"Error: {e}")
     exit(1)
+
+# Apply the conversion function to each row
+games_df['gmt_game_datetime'] = games_df.apply(convert_to_gmt, axis=1)
 
 # Specify the columns to use for generating the UUID
 venue_columns = ['Name']  # Example columns from venues_df
