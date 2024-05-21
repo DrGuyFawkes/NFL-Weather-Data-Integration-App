@@ -1,0 +1,31 @@
+name,capacity,location,surface,roof_type,teams,opened,geo,uuid
+Acrisure Stadium,68400,"Pittsburgh, Pennsylvania",Kentucky bluegrass,Open,Pittsburgh Steelers,2001,"40.446667, -80.015833",79438eeb-a3d5-53c9-aef3-8b5c82e076d2
+Allegiant Stadium,65000,"Paradise, Nevada",Bermuda grass,Fixed,Las Vegas Raiders,2020,"36.090556, -115.183889",91767679-1ab0-bbe6-da69-ece3c334c9c1
+Arrowhead Stadium,76416,"Kansas City, Missouri",Bermuda grass,Open,Kansas City Chiefs,1972,"39.048889, -94.483889",eae21ee9-dfc2-d8d5-2f2e-f234f5d5abce
+AT&T Stadium,80000,"Arlington, Texas",Hellas Matrix Turf,Retractable,Dallas Cowboys,2009,"32.747778, -97.092778",2306aea9-d518-6e5f-74ca-cad97e075cc8
+Bank of America Stadium,74867,"Charlotte, North Carolina",FieldTurf,Open,Carolina Panthers,1996,"35.225833, -80.852778",3ad7d61c-efa4-7350-4b8f-74bc65b859c5
+Caesars Superdome,73208,"New Orleans, Louisiana",FieldTurf Revolution 360,Fixed,New Orleans Saints,1975,"29.950833, -90.081111",a22155fd-b6dc-9272-9eaf-d625e7186dcb
+Cleveland Browns Stadium,67431,"Cleveland, Ohio",Kentucky bluegrass,Open,Cleveland Browns,1999,"41.506111, -81.699444",acdb7e6e-9a5b-4e31-52ef-4c64028098e7
+Commanders Field,65000,"Landover, Maryland",Bermuda grass,Open,Washington Commanders,1997,"38.907778, -76.864444",f77771c2-92ac-ab17-a172-8cc62e9b0c5c
+Empower Field at Mile High,76125,"Denver, Colorado",Kentucky bluegrass,Open,Denver Broncos,2001,"39.743889, -105.02",2b016a9f-9aeb-555a-980f-1e9d131c1be6
+EverBank Stadium,67838,"Jacksonville, Florida",Bermuda grass,Open,Jacksonville Jaguars,1995,"30.323889, -81.6375",6462ac05-9e35-80af-b2c1-1b8c235a463a
+Ford Field,65000,"Detroit, Michigan",FieldTurf CORE,Fixed,Detroit Lions,2002,"42.34, -83.045556",66fe82bd-ddd6-0039-c856-8ae93334c172
+Gillette Stadium,66829,"Foxborough, Massachusetts",FieldTurf CORE,Open,New England Patriots,2002,"42.091, -71.264",e40e4910-ab54-f4e2-03a4-4950e2a59e56
+Hard Rock Stadium,65326,"Miami Gardens, Florida",Bermuda grass,Open,Miami Dolphins,1987,"25.958056, -80.238889",de927210-523c-2ef4-e1a6-8c252ab2039b
+Highmark Stadium,71608,"Orchard Park, New York",A-Turf Titan 50,Open,Buffalo Bills,1973,"42.774, -78.787",332dfc07-fff0-2ef8-20c0-5700d1233089
+Lambeau Field,81441,"Green Bay, Wisconsin",Kentucky bluegrass reinforced with SIS Grass.,Open,Green Bay Packers,1957,"44.501389, -88.062222",94d5a3ef-f0d7-fcfb-1e2e-0713c2c52078
+Levi's Stadium,68500,"Santa Clara, California",Bermuda grass / Perennial Ryegrass mixture,Open,San Francisco 49ers,2014,"37.403, -121.97",853bd78b-9470-a57c-d440-3c61147059d3
+Lincoln Financial Field,69596,"Philadelphia, Pennsylvania",GrassMaster,Open,Philadelphia Eagles,2003,"39.900833, -75.1675",61209cf8-2f1c-16c8-aca0-467e502065e6
+Lucas Oil Stadium,67000,"Indianapolis, Indiana",Shaw Sports Momentum Pro,Retractable,Indianapolis Colts,2008,"39.760056, -86.163806",a85789cd-4bf0-4a35-d96e-c791c86dfc70
+Lumen Field,69000,"Seattle, Washington",FieldTurf Revolution 360,Open,Seattle Seahawks,2002,"47.5952, -122.3316",2b12eef0-7044-d0f8-94a8-74d00696cff7
+M&T Bank Stadium,71008,"Baltimore, Maryland",Bermuda grass,Open,Baltimore Ravens,1998,"39.278056, -76.622778",657a60a5-9de8-7e63-d184-075c7787df2d
+Mercedes-Benz Stadium,71000,"Atlanta, Georgia",FieldTurf Revolution,Retractable,Atlanta Falcons,2017,"33.755556, -84.4",bf65035d-301f-4864-b4f8-030fa7ce62bf
+MetLife Stadium,82000,"East Rutherford, New Jersey",FieldTurf Core,Open,"New York Giants, New York Jets",2010,"40.813528, -74.074361",517ef781-ea28-c56c-e788-cb4480e53e86
+Nissan Stadium,69143,"Nashville, Tennessee",Matrix Helix Turf with organic infill,Open,Tennessee Titans,1999,"36.166389, -86.771389",0116d9f7-96d1-2931-48ff-45a31fbdac9b
+NRG Stadium,72220,"Houston, Texas",Hellas Matrix Turf,Retractable,Houston Texans,2002,"29.684722, -95.410833",55f1a729-57ca-9033-a64c-351905ed49c1
+Paycor Stadium,65515,"Cincinnati, Ohio",UBU Speed Series S5-M Synthetic Turf,Open,Cincinnati Bengals,2000,"39.095, -84.516",9120b2bd-c9aa-d64b-8caf-03c8bc95d915
+Raymond James Stadium,69218,"Tampa, Florida",Bermuda grass,Open,Tampa Bay Buccaneers,1998,"27.975833, -82.503333",32eb50ec-dc98-07d4-1c17-dbb6583bd1a0
+SoFi Stadium,70240,"Inglewood, California",Hellas Matrix Turf,Fixed,"Los Angeles Rams, Los Angeles Chargers",2020,"33.953, -118.339",0f3829c8-d3ea-c341-b9ff-83b6221e32c9
+Soldier Field,61500,"Chicago, Illinois",Bermuda grass,Open,Chicago Bears,1924,"41.8623, -87.6167",0ca82913-10b8-b768-40b5-63a40b632c5a
+State Farm Stadium,63400,"Glendale, Arizona",Bermuda grass,Retractable,Arizona Cardinals,2006,"33.528, -112.263",5b8a29ca-0735-a9cc-037c-e74faa0eb77e
+U.S. Bank Stadium,66655,"Minneapolis, Minnesota",UBU Speed Series S5-M Synthetic Turf,Fixed,Minnesota Vikings,2016,"44.974, -93.258",8d50ac8c-2038-79ea-a7a6-385c79362701

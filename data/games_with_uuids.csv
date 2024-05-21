@@ -1,0 +1,817 @@
+season,week,game_date,start_time,start_time_gmt_offset,game_site,home_team,home_team_final_score,visit_team,visit_team_final_score,uuid
+2021,1,9/9/2021,20:20,-5,Tampa Bay,Tampa Bay Buccaneers,31.0,Dallas Cowboys,29.0,a29ac708-1f6b-71fc-de90-5685b9eb08bd
+2021,1,9/12/2021,13:00,-5,Atlanta,Atlanta Falcons,6.0,Philadelphia Eagles,32.0,4f9210b4-d0d7-bae2-5ede-9b3c359fddc1
+2021,1,9/12/2021,13:00,-5,Orchard Park,Buffalo Bills,16.0,Pittsburgh Steelers,23.0,ab642684-7249-8bf9-226e-4730d3e971a6
+2021,1,9/12/2021,13:00,-5,Charlotte,Carolina Panthers,19.0,New York Jets,14.0,0f972066-5557-9c37-3665-e99aaaf6e0f1
+2021,1,9/12/2021,13:00,-5,Cincinnati,Cincinnati Bengals,27.0,Minnesota Vikings,24.0,67db0c62-707d-382d-2888-9e8fdc7b7bcb
+2021,1,9/12/2021,13:00,-5,Detroit,Detroit Lions,33.0,San Francisco 49ers,41.0,83a8de28-b453-57b0-844c-4bf3abc31507
+2021,1,9/12/2021,12:00,-6,Houston,Houston Texans,37.0,Jacksonville Jaguars,21.0,3858bf7b-c157-6881-f314-4ab7e40f7a4c
+2021,1,9/12/2021,13:00,-5,Indianapolis,Indianapolis Colts,16.0,Seattle Seahawks,28.0,badf4aa9-8bbf-c820-2898-448317e6aa5b
+2021,1,9/12/2021,12:00,-6,Nashville,Tennessee Titans,13.0,Arizona Cardinals,38.0,c580b982-71d9-fa84-b4ca-b7aaa5bc9e11
+2021,1,9/12/2021,13:00,-5,Landover,Washington Football Team,16.0,Los Angeles Chargers,20.0,c2a0e78e-5608-cae5-bc75-2f83183f1602
+2021,1,9/12/2021,15:25,-6,Kansas City,Kansas City Chiefs,33.0,Cleveland Browns,29.0,dd12bb50-89fa-6491-f63a-3d7bf135ef35
+2021,1,9/12/2021,16:25,-5,Foxborough,New England Patriots,16.0,Miami Dolphins,17.0,ea97c8e8-ba8d-9ad4-383d-96c34ef781c2
+2021,1,9/12/2021,16:25,-5,Jacksonville,New Orleans Saints,38.0,Green Bay Packers,3.0,64234ffb-6d6b-fd22-f828-e055b788e417
+2021,1,9/12/2021,16:25,-5,East Rutherford,New York Giants,13.0,Denver Broncos,27.0,706060a5-723f-51f2-eeee-b4c0cd15275a
+2021,1,9/12/2021,17:20,-8,Inglewood,Los Angeles Rams,34.0,Chicago Bears,14.0,ecfe5c35-d2e4-1187-587e-87958e9dc4c8
+2021,1,9/13/2021,17:15,-8,Las Vegas,Las Vegas Raiders,33.0,Baltimore Ravens,27.0,2a35ab2f-0a29-873f-af51-938288f8c398
+2021,2,9/19/2021,13:00,-5,Pittsburgh,Pittsburgh Steelers,17.0,Las Vegas Raiders,26.0,d3359891-56fe-d4b9-c43f-7a657add9b2a
+2021,2,9/16/2021,20:20,-5,Landover,Washington Football Team,30.0,New York Giants,29.0,ca365bd0-d989-f7d2-5b8c-2f6776196723
+2021,2,9/19/2021,13:00,-5,Charlotte,Carolina Panthers,26.0,New Orleans Saints,7.0,65e13d73-d2eb-bf86-6372-5ef7ae33c4a6
+2021,2,9/19/2021,12:00,-6,Chicago,Chicago Bears,20.0,Cincinnati Bengals,17.0,0f14b50a-bf58-605d-b71f-2d2bb147e56b
+2021,2,9/19/2021,13:00,-5,Cleveland,Cleveland Browns,31.0,Houston Texans,21.0,66efbc8a-cc8d-54e4-6e6c-1c02bbbe3f54
+2021,2,9/19/2021,13:00,-5,Indianapolis,Indianapolis Colts,24.0,Los Angeles Rams,27.0,ec758287-c39e-79ec-3d02-997b799f241b
+2021,2,9/19/2021,13:00,-5,Jacksonville,Jacksonville Jaguars,13.0,Denver Broncos,23.0,a75c8f5b-191c-5afb-fb95-893ecf03ff54
+2021,2,9/19/2021,13:00,-5,Miami Gardens,Miami Dolphins,0.0,Buffalo Bills,35.0,57da6638-ebbe-d97e-7d85-3af0624934ec
+2021,2,9/19/2021,13:00,-5,East Rutherford,New York Jets,6.0,New England Patriots,25.0,bfe04dc9-10af-ea25-3e99-3a29c089dd71
+2021,2,9/19/2021,13:00,-5,Philadelphia,Philadelphia Eagles,11.0,San Francisco 49ers,17.0,dbae8be9-493c-18f0-0706-394e7b9d8c6d
+2021,2,9/19/2021,13:05,-8,Glendale,Arizona Cardinals,34.0,Minnesota Vikings,33.0,bc6d6da7-f95f-0862-377a-74a3ac93e01d
+2021,2,9/19/2021,16:05,-5,Tampa Bay,Tampa Bay Buccaneers,48.0,Atlanta Falcons,25.0,b75c70d7-baa6-160d-9288-77b8538dc394
+2021,2,9/19/2021,13:25,-8,Inglewood,Los Angeles Chargers,17.0,Dallas Cowboys,20.0,29570711-24f8-09f5-86af-72c9a0193dbf
+2021,2,9/19/2021,13:25,-8,Seattle,Seattle Seahawks,30.0,Tennessee Titans,33.0,30330394-4ade-955a-ce87-09ea00c9acea
+2021,2,9/19/2021,20:20,-5,Baltimore,Baltimore Ravens,36.0,Kansas City Chiefs,35.0,7d11a99a-0003-55be-d1d7-976bcc0fbab2
+2021,2,9/20/2021,19:15,-6,Green Bay,Green Bay Packers,35.0,Detroit Lions,17.0,4579adf0-8dca-8725-616f-1ad0e0903a9e
+2021,3,9/23/2021,19:20,-6,Houston,Houston Texans,9.0,Carolina Panthers,24.0,36a8cda9-d2db-2593-5ce7-be145828b306
+2021,3,9/26/2021,13:00,-5,Orchard Park,Buffalo Bills,43.0,Washington Football Team,21.0,0bf464ea-98b3-115c-dc62-088aabb656b4
+2021,3,9/26/2021,13:00,-5,Cleveland,Cleveland Browns,26.0,Chicago Bears,6.0,122b9046-5a7f-21ba-0a92-a918330449b7
+2021,3,9/26/2021,13:00,-5,Detroit,Detroit Lions,17.0,Baltimore Ravens,19.0,e647cc04-b7d6-0f62-b138-47eb5c859624
+2021,3,9/26/2021,13:00,-5,Jacksonville,Jacksonville Jaguars,19.0,Arizona Cardinals,31.0,ad908605-c372-aa47-25c2-487e02fe51f6
+2021,3,9/26/2021,13:00,-5,Foxborough,New England Patriots,13.0,New Orleans Saints,28.0,d32dca06-4885-be5e-2b8d-d8d393c67c8e
+2021,3,9/26/2021,13:00,-5,East Rutherford,New York Giants,14.0,Atlanta Falcons,17.0,c74e3b2a-a596-0c2b-1b42-519001c2386c
+2021,3,9/26/2021,13:00,-5,Pittsburgh,Pittsburgh Steelers,10.0,Cincinnati Bengals,24.0,820f7018-9470-c48b-8343-82e79e8692b5
+2021,3,9/26/2021,12:00,-6,Kansas City,Kansas City Chiefs,24.0,Los Angeles Chargers,30.0,0d46dc96-b35a-4516-12ad-2dba0092df6e
+2021,3,9/26/2021,12:00,-6,Nashville,Tennessee Titans,25.0,Indianapolis Colts,16.0,df3aa057-2500-3713-a46d-9472461b9b18
+2021,3,9/26/2021,14:05,-7,Denver,Denver Broncos,26.0,New York Jets,0.0,768ec27f-9a07-fe42-bba6-53146ead2748
+2021,3,9/26/2021,13:05,-8,Las Vegas,Las Vegas Raiders,31.0,Miami Dolphins,28.0,ee8c908c-b1fd-4477-8e6e-fea63e1e7a38
+2021,3,9/26/2021,13:25,-8,Inglewood,Los Angeles Rams,34.0,Tampa Bay Buccaneers,24.0,3e56fa67-00dd-2a6e-19b0-f5387a97350f
+2021,3,9/26/2021,15:25,-6,Minneapolis,Minnesota Vikings,30.0,Seattle Seahawks,17.0,17e08714-fc82-1b29-9ea5-9e2099fad736
+2021,3,9/26/2021,17:20,-8,Santa Clara,San Francisco 49ers,28.0,Green Bay Packers,30.0,c9a5f91c-015c-71c6-9ee3-3bb40a19ce25
+2021,3,9/27/2021,19:15,-6,Arlington,Dallas Cowboys,41.0,Philadelphia Eagles,21.0,95533a23-b30f-3cea-1250-306bfca5ad9d
+2021,4,9/30/2021,20:20,-5,Cincinnati,Cincinnati Bengals,24.0,Jacksonville Jaguars,21.0,c6c7ac7f-d6c3-a977-ad67-4e72542bc503
+2021,4,10/3/2021,13:00,-5,Atlanta,Atlanta Falcons,30.0,Washington Football Team,34.0,0b360b6d-a34e-9e46-374a-386e6d8b6af0
+2021,4,10/3/2021,13:00,-5,Orchard Park,Buffalo Bills,40.0,Houston Texans,0.0,4e4e2be9-fd8a-8e60-db9f-8fc0212c4a09
+2021,4,10/3/2021,12:00,-6,Chicago,Chicago Bears,24.0,Detroit Lions,14.0,9667549e-71c1-4392-b85f-7954c0bc5673
+2021,4,10/3/2021,12:00,-6,Arlington,Dallas Cowboys,36.0,Carolina Panthers,28.0,f1e8e3f5-382e-94b6-18c1-11855cbcd5bd
+2021,4,10/3/2021,13:00,-5,Miami Gardens,Miami Dolphins,17.0,Indianapolis Colts,27.0,80c26be3-297f-61ea-e782-6c7d21ee1b2d
+2021,4,10/3/2021,12:00,-6,Minneapolis,Minnesota Vikings,7.0,Cleveland Browns,14.0,52f671ab-7111-99e9-507e-92279568dfcf
+2021,4,10/3/2021,12:00,-6,New Orleans,New Orleans Saints,21.0,New York Giants,27.0,51ac768c-df20-52da-878b-71efcf9c7083
+2021,4,10/3/2021,13:00,-5,East Rutherford,New York Jets,27.0,Tennessee Titans,24.0,780439ae-4cd3-2259-c2aa-1c4be91898e1
+2021,4,10/3/2021,13:00,-5,Philadelphia,Philadelphia Eagles,30.0,Kansas City Chiefs,42.0,e7e6a4f8-4acb-81b0-0377-59041ca6176e
+2021,4,10/3/2021,13:05,-8,Inglewood,Los Angeles Rams,20.0,Arizona Cardinals,37.0,8749760b-9e83-c742-0784-fec9d73925d4
+2021,4,10/3/2021,14:25,-7,Denver,Denver Broncos,7.0,Baltimore Ravens,23.0,4c155a94-5ae9-c729-9054-d11f37952073
+2021,4,10/3/2021,15:25,-6,Green Bay,Green Bay Packers,27.0,Pittsburgh Steelers,17.0,536a1189-7b92-c7e1-66da-72af43716315
+2021,4,10/3/2021,20:20,-5,Foxborough,New England Patriots,17.0,Tampa Bay Buccaneers,19.0,df545c6b-df05-50d4-4508-7f356cda09b3
+2021,4,10/3/2021,13:05,-8,Santa Clara,San Francisco 49ers,21.0,Seattle Seahawks,28.0,211693fd-6506-d259-88ee-e2cc5e0b9618
+2021,4,10/4/2021,17:15,-8,Inglewood,Los Angeles Chargers,28.0,Las Vegas Raiders,14.0,12aa4cc7-85f0-07f6-157d-df950fcefda9
+2021,5,10/7/2021,17:20,-8,Seattle,Seattle Seahawks,17.0,Los Angeles Rams,26.0,aca3745d-fe1c-1d36-f357-496732171c67
+2021,5,10/10/2021,13:00,-5,Cincinnati,Cincinnati Bengals,22.0,Green Bay Packers,25.0,a2478b87-230b-3071-6242-aa50ab9dd2d6
+2021,5,10/10/2021,12:00,-6,Houston,Houston Texans,22.0,New England Patriots,25.0,b9d8820d-6637-7274-bd24-5865b591e9a3
+2021,5,10/10/2021,13:00,-5,Jacksonville,Jacksonville Jaguars,19.0,Tennessee Titans,37.0,83b10be3-590e-dc9b-84be-6c7d6ad6de4d
+2021,5,10/10/2021,12:00,-6,Minneapolis,Minnesota Vikings,19.0,Detroit Lions,17.0,5763e6dd-83c0-f1a5-cefa-d43eb12b5681
+2021,5,10/10/2021,13:00,-5,Pittsburgh,Pittsburgh Steelers,27.0,Denver Broncos,19.0,f583bb03-649a-5bdb-6e07-894b3972ad97
+2021,5,10/10/2021,13:00,-5,Tampa Bay,Tampa Bay Buccaneers,45.0,Miami Dolphins,17.0,ee70c97f-cbf5-16d6-2702-e37b25a1efe0
+2021,5,10/10/2021,13:00,-5,Landover,Washington Football Team,22.0,New Orleans Saints,33.0,7d89f056-70e5-cf4e-0f44-70cf794eed0d
+2021,5,10/10/2021,13:00,-5,Charlotte,Carolina Panthers,18.0,Philadelphia Eagles,21.0,a4d02aa5-4035-1a40-46f5-4f8dbc9450ce
+2021,5,10/10/2021,13:05,-8,Las Vegas,Las Vegas Raiders,9.0,Chicago Bears,20.0,babe5b69-4bcd-e8f9-c25a-cda078f306b4
+2021,5,10/10/2021,13:05,-8,Inglewood,Los Angeles Chargers,47.0,Cleveland Browns,42.0,a50e8d0f-36f0-a198-aff5-5c09518f5df0
+2021,5,10/10/2021,13:25,-8,Glendale,Arizona Cardinals,17.0,San Francisco 49ers,10.0,2be22027-9133-0229-349c-9ab6abfb04ca
+2021,5,10/10/2021,15:25,-6,Arlington,Dallas Cowboys,44.0,New York Giants,20.0,714a23dd-1e51-83f7-f831-839695f52b38
+2021,5,10/10/2021,19:20,-6,Kansas City,Kansas City Chiefs,20.0,Buffalo Bills,38.0,e92cbd10-6d75-ba8c-352d-89e5d5e1fe61
+2021,5,10/10/2021,14:30,0,Tottenham,Atlanta Falcons,27.0,New York Jets,20.0,93ff0b54-577d-a062-3ee3-74c8df411006
+2021,5,10/11/2021,20:15,-5,Baltimore,Baltimore Ravens,31.0,Indianapolis Colts,25.0,596623b7-919f-366e-e28a-6721be7d2322
+2021,6,10/14/2021,20:20,-5,Philadelphia,Philadelphia Eagles,22.0,Tampa Bay Buccaneers,28.0,367d5042-35c9-07ef-9baf-270c0fe80634
+2021,6,10/17/2021,13:00,-5,Baltimore,Baltimore Ravens,34.0,Los Angeles Chargers,6.0,35b68352-7bab-fbf5-2091-2bfd4c9696a2
+2021,6,10/17/2021,13:00,-5,Charlotte,Carolina Panthers,28.0,Minnesota Vikings,34.0,e3986b34-f91c-9d50-82d7-95cf7033b9e0
+2021,6,10/17/2021,12:00,-6,Chicago,Chicago Bears,14.0,Green Bay Packers,24.0,2cca80d4-7dc0-f87b-c00c-eca1a4e268cd
+2021,6,10/17/2021,13:00,-5,Detroit,Detroit Lions,11.0,Cincinnati Bengals,34.0,7699e5b1-8e50-fa16-f15f-f1ab297776e0
+2021,6,10/17/2021,13:00,-5,Indianapolis,Indianapolis Colts,31.0,Houston Texans,3.0,522d5dbd-42da-2519-b5c5-9e5d7219c06d
+2021,6,10/17/2021,13:00,-5,East Rutherford,New York Giants,11.0,Los Angeles Rams,38.0,8495b165-8d3b-5afc-7a19-2916091a0ead
+2021,6,10/17/2021,13:00,-5,Landover,Washington Football Team,13.0,Kansas City Chiefs,31.0,447c7baa-53ef-f20b-d38b-e72c70c96ecf
+2021,6,10/17/2021,16:05,-5,Cleveland,Cleveland Browns,14.0,Arizona Cardinals,37.0,ee6ae1b1-4059-252e-dbcd-ce1b787f9d89
+2021,6,10/17/2021,14:25,-7,Denver,Denver Broncos,24.0,Las Vegas Raiders,34.0,f2e57692-cd06-9a9f-a168-2e683bc7e95f
+2021,6,10/17/2021,16:25,-5,Foxborough,New England Patriots,29.0,Dallas Cowboys,35.0,718013d4-447b-7ab3-88c7-e3c3955bfb68
+2021,6,10/17/2021,20:20,-5,Pittsburgh,Pittsburgh Steelers,23.0,Seattle Seahawks,20.0,56052831-942d-ddb6-d0b0-6cbf3adfce92
+2021,6,10/17/2021,14:30,0,Tottenham,Jacksonville Jaguars,23.0,Miami Dolphins,20.0,81f39fa1-32ee-ddc6-527c-4425f04648b5
+2021,6,10/18/2021,19:15,-6,Nashville,Tennessee Titans,34.0,Buffalo Bills,31.0,a13e7ec5-8fb7-2e07-9b86-ad98d80a01dd
+2021,7,10/21/2021,20:20,-5,Cleveland,Cleveland Browns,17.0,Denver Broncos,14.0,efa55f87-e2dd-98d2-41f1-054ca49aec5b
+2021,7,10/24/2021,13:00,-5,Baltimore,Baltimore Ravens,17.0,Cincinnati Bengals,41.0,98925677-4a9d-0f55-3249-32e4265f2275
+2021,7,10/24/2021,12:00,-6,Green Bay,Green Bay Packers,24.0,Washington Football Team,10.0,b8d3fa46-0594-1f63-a9a3-b4800ed61a89
+2021,7,10/24/2021,13:00,-5,Miami Gardens,Miami Dolphins,28.0,Atlanta Falcons,30.0,9e540f30-9418-eb5b-7eb4-951d67ab21b6
+2021,7,10/24/2021,13:00,-5,Foxborough,New England Patriots,54.0,New York Jets,13.0,75f36aed-1109-9a87-6c2e-f8f2dcfe060c
+2021,7,10/24/2021,13:00,-5,East Rutherford,New York Giants,25.0,Carolina Panthers,3.0,4f71cb43-8729-21af-4bc7-4b19ecaa63cd
+2021,7,10/24/2021,12:00,-6,Nashville,Tennessee Titans,27.0,Kansas City Chiefs,3.0,01219b09-02a9-68ae-9280-68ab8520d811
+2021,7,10/24/2021,13:05,-8,Las Vegas,Las Vegas Raiders,33.0,Philadelphia Eagles,22.0,22b4bfe3-7ccf-c7de-8fa2-94edf20cbe45
+2021,7,10/24/2021,13:05,-8,Inglewood,Los Angeles Rams,28.0,Detroit Lions,19.0,869c1cf7-e33b-ad97-65ab-cbbde051b605
+2021,7,10/24/2021,13:25,-8,Glendale,Arizona Cardinals,31.0,Houston Texans,5.0,fb626d8c-06f9-f3f2-b34b-315050511ba6
+2021,7,10/24/2021,16:25,-5,Tampa Bay,Tampa Bay Buccaneers,38.0,Chicago Bears,3.0,6ca6ec48-f1f8-2a5b-d0c3-746b4e1c91ae
+2021,7,10/24/2021,17:20,-8,Santa Clara,San Francisco 49ers,18.0,Indianapolis Colts,30.0,901f0514-6bc6-5d95-8b67-2d4f4b111e9e
+2021,7,10/25/2021,17:15,-8,Seattle,Seattle Seahawks,10.0,New Orleans Saints,13.0,fd6ff3c6-1c08-5d3e-995d-e2ffb67dbb03
+2021,8,10/28/2021,17:20,-8,Glendale,Arizona Cardinals,21.0,Green Bay Packers,24.0,6e4397e4-2314-112e-847d-4c08d280a610
+2021,8,10/31/2021,13:00,-5,Atlanta,Atlanta Falcons,13.0,Carolina Panthers,19.0,39291c38-3938-766b-3d0c-cdbcf61d183c
+2021,8,10/31/2021,13:00,-5,Orchard Park,Buffalo Bills,26.0,Miami Dolphins,11.0,46d098d7-927c-9976-f2c5-f41dd705ba17
+2021,8,10/31/2021,12:00,-6,Chicago,Chicago Bears,22.0,San Francisco 49ers,33.0,8ddacae9-da3d-ba20-32a9-b042f0674940
+2021,8,10/31/2021,13:00,-5,Cleveland,Cleveland Browns,10.0,Pittsburgh Steelers,15.0,9d21a83c-0e63-0980-cafb-d5eb4340601e
+2021,8,10/31/2021,13:00,-5,Detroit,Detroit Lions,6.0,Philadelphia Eagles,44.0,60bf8978-60c3-9c13-998a-9019063154c1
+2021,8,10/31/2021,12:00,-6,Houston,Houston Texans,22.0,Los Angeles Rams,38.0,9ba78a26-5c05-de77-bf2e-9cfa7e231b01
+2021,8,10/31/2021,13:00,-5,East Rutherford,New York Jets,34.0,Cincinnati Bengals,31.0,f6344055-df28-bd8b-5900-4cd99e54709f
+2021,8,10/31/2021,13:00,-5,Indianapolis,Indianapolis Colts,31.0,Tennessee Titans,34.0,dfbf9372-b63c-9779-9d6a-afe1ce0b4849
+2021,8,10/31/2021,13:05,-8,Inglewood,Los Angeles Chargers,24.0,New England Patriots,27.0,63ee1571-9924-147a-133c-68889d91d01a
+2021,8,10/31/2021,13:05,-8,Seattle,Seattle Seahawks,31.0,Jacksonville Jaguars,7.0,4ffe6650-f2a9-a956-e70f-fbd201f5c0b8
+2021,8,10/31/2021,14:25,-7,Denver,Denver Broncos,17.0,Washington Football Team,10.0,0210b829-6c4f-54db-bb46-08c3261efd7f
+2021,8,10/31/2021,15:25,-6,New Orleans,New Orleans Saints,36.0,Tampa Bay Buccaneers,27.0,69d3348b-b9e5-6ee9-8df3-f2762934707f
+2021,8,10/31/2021,19:20,-6,Minneapolis,Minnesota Vikings,16.0,Dallas Cowboys,20.0,fa25f702-9b7a-a24c-e508-4894bf23e7b4
+2021,8,11/1/2021,19:15,-6,Kansas City,Kansas City Chiefs,20.0,New York Giants,17.0,55bf7004-4762-9eea-3ed8-c5b6e3072ad5
+2021,9,11/4/2021,20:20,-5,Indianapolis,Indianapolis Colts,45.0,New York Jets,30.0,e1677721-1f65-91ed-6bcf-33cdac2a8396
+2021,9,11/7/2021,13:00,-5,Baltimore,Baltimore Ravens,34.0,Minnesota Vikings,31.0,9f0464bf-5276-85bd-f6d4-6efde8b16bd0
+2021,9,11/7/2021,13:00,-5,Charlotte,Carolina Panthers,6.0,New England Patriots,24.0,1a3de146-8cd9-80ea-5ce4-77d1308179c4
+2021,9,11/7/2021,13:00,-5,Cincinnati,Cincinnati Bengals,16.0,Cleveland Browns,41.0,b42047f5-fcc5-aaf2-b45f-642d8790b221
+2021,9,11/7/2021,12:00,-6,Arlington,Dallas Cowboys,16.0,Denver Broncos,30.0,e55f09b0-2fb1-2519-158a-0a039ac1ac6a
+2021,9,11/7/2021,13:00,-5,Jacksonville,Jacksonville Jaguars,9.0,Buffalo Bills,6.0,415eb469-7209-599c-3f93-45529b89697a
+2021,9,11/7/2021,13:00,-5,Miami Gardens,Miami Dolphins,17.0,Houston Texans,9.0,c0e9303f-c534-0fa7-784e-bffffc8630a1
+2021,9,11/7/2021,12:00,-6,New Orleans,New Orleans Saints,25.0,Atlanta Falcons,27.0,b1fb12b0-fb28-89df-208a-cdefe69a7224
+2021,9,11/7/2021,13:00,-5,East Rutherford,New York Giants,23.0,Las Vegas Raiders,16.0,701b6ecf-6502-3f54-81c6-0731b5bb8709
+2021,9,11/7/2021,16:05,-5,Philadelphia,Philadelphia Eagles,24.0,Los Angeles Chargers,27.0,4bbea6c0-5a25-3544-6b56-330667414e7a
+2021,9,11/7/2021,15:25,-6,Kansas City,Kansas City Chiefs,13.0,Green Bay Packers,7.0,4e3b4b3e-5a00-5ed4-3aa9-83b3fb8efe30
+2021,9,11/7/2021,13:25,-8,Santa Clara,San Francisco 49ers,17.0,Arizona Cardinals,31.0,7a7ced6b-3b56-3250-6b20-1a48cf37c051
+2021,9,11/7/2021,17:20,-8,Inglewood,Los Angeles Rams,16.0,Tennessee Titans,28.0,aa74a92f-8eee-b41f-7474-decbad1250b5
+2021,9,11/8/2021,20:15,-5,Pittsburgh,Pittsburgh Steelers,29.0,Chicago Bears,27.0,039d043b-5101-09ae-b62c-c11a56e18cd5
+2021,10,11/11/2021,20:20,-5,Miami Gardens,Miami Dolphins,22.0,Baltimore Ravens,10.0,f3a8126a-5572-0784-b8e1-526b53a8304f
+2021,10,11/14/2021,13:00,-5,Landover,Washington Football Team,29.0,Tampa Bay Buccaneers,19.0,68c110a7-77c3-500d-0de8-23d99d5fd29b
+2021,10,11/14/2021,12:00,-6,Arlington,Dallas Cowboys,43.0,Atlanta Falcons,3.0,916c3687-7c69-758c-947f-b353dc6d6b79
+2021,10,11/14/2021,13:00,-5,Indianapolis,Indianapolis Colts,23.0,Jacksonville Jaguars,17.0,fe9eec68-710d-b666-2ab4-f1775983d2c2
+2021,10,11/14/2021,13:00,-5,Foxborough,New England Patriots,45.0,Cleveland Browns,7.0,77e13784-3c00-4171-bb15-f2e1ef1f012c
+2021,10,11/14/2021,13:00,-5,East Rutherford,New York Jets,17.0,Buffalo Bills,45.0,f27c878d-9b6b-c05e-d61d-21988f574f43
+2021,10,11/14/2021,13:00,-5,Pittsburgh,Pittsburgh Steelers,16.0,Detroit Lions,16.0,7246c56d-5f21-2e18-7291-ab6fb90a47a8
+2021,10,11/14/2021,12:00,-6,Nashville,Tennessee Titans,23.0,New Orleans Saints,21.0,012591b4-0a04-143b-e531-ff57e097725e
+2021,10,11/14/2021,14:05,-7,Glendale,Arizona Cardinals,10.0,Carolina Panthers,34.0,d916e2ce-aa8b-db48-11b6-d4031844c06d
+2021,10,11/14/2021,13:05,-8,Inglewood,Los Angeles Chargers,20.0,Minnesota Vikings,27.0,fd82814e-f612-89f5-4c50-5747b5bacc17
+2021,10,11/14/2021,14:25,-7,Denver,Denver Broncos,13.0,Philadelphia Eagles,30.0,399f6fd4-2d53-89ab-9c93-792595e70085
+2021,10,11/14/2021,15:25,-6,Green Bay,Green Bay Packers,17.0,Seattle Seahawks,0.0,d904b238-46eb-8c59-e1d8-1d3910e843b4
+2021,10,11/15/2021,17:15,-8,Santa Clara,San Francisco 49ers,31.0,Los Angeles Rams,10.0,0d73514c-c265-c9c5-a38c-1b940179b826
+2021,11,11/18/2021,20:20,-5,Atlanta,Atlanta Falcons,0.0,New England Patriots,25.0,bc1e6af0-3bbe-432e-b484-ad66ed37f89c
+2021,11,11/21/2021,13:00,-5,Orchard Park,Buffalo Bills,15.0,Indianapolis Colts,41.0,67118bc0-1166-50fa-9c93-c0a1660111b6
+2021,11,11/21/2021,13:00,-5,Charlotte,Carolina Panthers,21.0,Washington Football Team,27.0,753a31ad-cd9e-f94b-aa70-c8902cef7e54
+2021,11,11/21/2021,12:00,-6,Chicago,Chicago Bears,13.0,Baltimore Ravens,16.0,7d457753-5c6a-c22f-7d09-4ed100e3052e
+2021,11,11/21/2021,13:00,-5,Cleveland,Cleveland Browns,13.0,Detroit Lions,10.0,c8e32069-2909-873a-c61a-79a90dddecd6
+2021,11,11/21/2021,13:00,-5,Jacksonville,Jacksonville Jaguars,10.0,San Francisco 49ers,30.0,119abe7e-b0ee-3c63-1164-a6be4a9d765a
+2021,11,11/21/2021,12:00,-6,Minneapolis,Minnesota Vikings,34.0,Green Bay Packers,31.0,c70f9232-4217-52f5-6afe-6b69b5eecd7b
+2021,11,11/21/2021,13:00,-5,East Rutherford,New York Jets,17.0,Miami Dolphins,24.0,63ed4bf4-ed2b-8b8d-ddac-9973283c3e0a
+2021,11,11/21/2021,13:00,-5,Philadelphia,Philadelphia Eagles,40.0,New Orleans Saints,29.0,e6bf2264-8556-3b4e-dfc0-806c9e778f84
+2021,11,11/21/2021,12:00,-6,Nashville,Tennessee Titans,13.0,Houston Texans,22.0,8eac2273-ada4-089b-7e02-e1a873f38bde
+2021,11,11/21/2021,13:05,-8,Las Vegas,Las Vegas Raiders,13.0,Cincinnati Bengals,32.0,d97c0b36-4171-7c71-e520-39a3a79cadb9
+2021,11,11/21/2021,15:25,-6,Kansas City,Kansas City Chiefs,19.0,Dallas Cowboys,9.0,2767cf8f-1eb0-1742-1319-b79351ae6428
+2021,11,11/21/2021,13:25,-8,Seattle,Seattle Seahawks,13.0,Arizona Cardinals,23.0,9db6077f-35cb-a699-6336-243a82fc1ab7
+2021,11,11/21/2021,17:20,-8,Inglewood,Los Angeles Chargers,41.0,Pittsburgh Steelers,37.0,ed3b31ef-bf20-15d0-676f-9c9d8d7b7928
+2021,11,11/22/2021,20:15,-5,Tampa Bay,Tampa Bay Buccaneers,30.0,New York Giants,10.0,91298388-d270-558d-6f4a-d5cd5f24e3d3
+2021,12,11/25/2021,12:30,-5,Detroit,Detroit Lions,14.0,Chicago Bears,16.0,ea2ebec9-57cf-d404-53c0-5998e4f6fb87
+2021,12,11/25/2021,15:30,-6,Arlington,Dallas Cowboys,33.0,Las Vegas Raiders,36.0,c9c2e0dd-499a-af9e-9591-39e45f229f78
+2021,12,11/25/2021,19:20,-6,New Orleans,New Orleans Saints,6.0,Buffalo Bills,31.0,b1dd1b20-f4ea-952e-ae98-d3acedc6d3d5
+2021,12,11/28/2021,13:00,-5,Cincinnati,Cincinnati Bengals,41.0,Pittsburgh Steelers,10.0,462ef07f-f615-d009-8106-40292c33d424
+2021,12,11/28/2021,12:00,-6,Houston,Houston Texans,14.0,New York Jets,21.0,1f1aa4dc-7960-a43e-3183-c57bcf300181
+2021,12,11/28/2021,13:00,-5,Indianapolis,Indianapolis Colts,31.0,Tampa Bay Buccaneers,38.0,1a6ed3e4-aa86-ea18-0c38-c35560db6974
+2021,12,11/28/2021,13:00,-5,Jacksonville,Jacksonville Jaguars,14.0,Atlanta Falcons,21.0,bb18258e-d95e-5cdb-0f18-7a9907d20f2d
+2021,12,11/28/2021,13:00,-5,Miami Gardens,Miami Dolphins,33.0,Carolina Panthers,10.0,3e37ed1c-4382-bfbc-f9b6-25d7ad666b79
+2021,12,11/28/2021,13:00,-5,Foxborough,New England Patriots,36.0,Tennessee Titans,13.0,04ed6335-b135-dd5f-c363-483adc816b46
+2021,12,11/28/2021,13:00,-5,East Rutherford,New York Giants,13.0,Philadelphia Eagles,7.0,fdfa2904-d8ba-84f9-6b57-fd6aef2dd001
+2021,12,11/28/2021,14:05,-7,Denver,Denver Broncos,28.0,Los Angeles Chargers,13.0,960018a7-7ccf-2c10-a36b-2fdbe845d2b9
+2021,12,11/28/2021,15:25,-6,Green Bay,Green Bay Packers,36.0,Los Angeles Rams,28.0,313a8b35-9afa-6511-4b37-c555be0b48a1
+2021,12,11/28/2021,13:25,-8,Santa Clara,San Francisco 49ers,34.0,Minnesota Vikings,26.0,625ce636-efa7-ccae-9adc-755c145cbf0b
+2021,12,11/28/2021,20:20,-5,Baltimore,Baltimore Ravens,16.0,Cleveland Browns,10.0,c1ed29f8-a1d7-0440-bb13-7a5656fc88eb
+2021,12,11/29/2021,20:15,-5,Landover,Washington Football Team,17.0,Seattle Seahawks,15.0,92975837-ad3c-73d5-0882-0eba0ff20ad6
+2021,13,12/2/2021,19:20,-6,New Orleans,New Orleans Saints,17.0,Dallas Cowboys,27.0,d18e6097-201d-15ca-e561-16904b6c1e9d
+2021,13,12/5/2021,13:00,-5,Atlanta,Atlanta Falcons,17.0,Tampa Bay Buccaneers,30.0,2a42e9e5-d839-620d-e7f1-327c19966214
+2021,13,12/5/2021,12:00,-6,Chicago,Chicago Bears,22.0,Arizona Cardinals,33.0,d67e9a6b-1d44-3761-12d1-cf722c6de7ce
+2021,13,12/5/2021,13:00,-5,Cincinnati,Cincinnati Bengals,22.0,Los Angeles Chargers,41.0,9853aa89-ef57-457e-7208-5a925db94b24
+2021,13,12/5/2021,13:00,-5,Detroit,Detroit Lions,29.0,Minnesota Vikings,27.0,af06ab47-f526-5c62-fc23-3ab0414b721a
+2021,13,12/5/2021,12:00,-6,Houston,Houston Texans,0.0,Indianapolis Colts,31.0,7bc02a27-3feb-778b-49b8-c652154cb99c
+2021,13,12/5/2021,19:20,-6,Kansas City,Kansas City Chiefs,22.0,Denver Broncos,9.0,c81d9f16-eaf5-7bd5-a7d1-25a10d09f6b9
+2021,13,12/5/2021,13:00,-5,Miami Gardens,Miami Dolphins,20.0,New York Giants,9.0,ecf8bece-235b-102a-1223-bbb9d21ea94c
+2021,13,12/5/2021,13:00,-5,East Rutherford,New York Jets,18.0,Philadelphia Eagles,33.0,8b07bc7b-3da5-971a-ede2-badb6403829b
+2021,13,12/5/2021,13:05,-8,Las Vegas,Las Vegas Raiders,15.0,Washington Football Team,17.0,978e1f4b-85f4-e2a4-e3ed-890eed426599
+2021,13,12/5/2021,16:25,-5,Pittsburgh,Pittsburgh Steelers,20.0,Baltimore Ravens,19.0,119e657f-9078-55c5-ca3b-d4de317a8167
+2021,13,12/5/2021,13:05,-8,Inglewood,Los Angeles Rams,37.0,Jacksonville Jaguars,7.0,31778449-e49e-cf69-61eb-7dfc9c48996d
+2021,13,12/5/2021,13:25,-8,Seattle,Seattle Seahawks,30.0,San Francisco 49ers,23.0,67da5a37-9eab-e311-b23d-0cdae31224a2
+2021,13,12/6/2021,20:15,-5,Orchard Park,Buffalo Bills,10.0,New England Patriots,14.0,77415fae-c499-7ecd-79c0-0faddb52bbc7
+2021,14,12/9/2021,19:20,-6,Minneapolis,Minnesota Vikings,36.0,Pittsburgh Steelers,28.0,8a6f1b4b-cef7-e0b1-249e-230b99fa4456
+2021,14,12/12/2021,13:00,-5,Charlotte,Carolina Panthers,21.0,Atlanta Falcons,29.0,1c531177-4eee-a860-36be-9bac83683c9a
+2021,14,12/12/2021,16:25,-5,Cincinnati,Cincinnati Bengals,23.0,San Francisco 49ers,26.0,44e607a1-7c39-7fb5-1217-148619d86df9
+2021,14,12/12/2021,13:00,-5,Cleveland,Cleveland Browns,24.0,Baltimore Ravens,22.0,32d6287b-8899-5403-7b8a-f0104cd9c277
+2021,14,12/12/2021,12:00,-6,Houston,Houston Texans,13.0,Seattle Seahawks,33.0,681baa69-7891-abdd-a8a2-e5d4b4bcb17a
+2021,14,12/12/2021,12:00,-6,Kansas City,Kansas City Chiefs,48.0,Las Vegas Raiders,9.0,a75d6465-3303-d2d6-7a22-12e2a75022d4
+2021,10,11/14/2021,17:20,-8,Las Vegas,Las Vegas Raiders,14.0,Kansas City Chiefs,41.0,a4484e09-a844-c3bd-87f6-599764c944b8
+2021,14,12/12/2021,13:00,-5,East Rutherford,New York Jets,9.0,New Orleans Saints,30.0,78659b11-1031-1b98-6649-956af6b2e6c1
+2021,14,12/12/2021,12:00,-6,Nashville,Tennessee Titans,20.0,Jacksonville Jaguars,0.0,4fab3e69-c045-cdf5-758c-ef93536383c1
+2021,14,12/12/2021,13:00,-5,Landover,Washington Football Team,20.0,Dallas Cowboys,27.0,dd7b3c00-9f1e-dc27-4ef0-1855570a2672
+2021,14,12/12/2021,14:05,-7,Denver,Denver Broncos,38.0,Detroit Lions,10.0,acf29d51-a308-99d3-7e97-d6c9d3f9a836
+2021,14,12/12/2021,13:05,-8,Inglewood,Los Angeles Chargers,37.0,New York Giants,21.0,5b579e24-0cc0-c216-5c4f-9f6002290173
+2021,14,12/12/2021,16:25,-5,Tampa Bay,Tampa Bay Buccaneers,33.0,Buffalo Bills,27.0,c664fbe6-2044-ee8c-91cf-022c8b916532
+2021,14,12/12/2021,19:20,-6,Green Bay,Green Bay Packers,45.0,Chicago Bears,30.0,c3a4a68e-8fe0-bf78-64b3-c353264606d3
+2021,14,12/13/2021,18:15,-7,Glendale,Arizona Cardinals,23.0,Los Angeles Rams,30.0,b8d207c2-1596-8d14-fb03-d7095d0aab5a
+2021,15,12/16/2021,17:20,-8,Inglewood,Los Angeles Chargers,28.0,Kansas City Chiefs,34.0,f2ae7b48-7214-543d-c114-67ef7cca0ced
+2021,15,12/19/2021,13:00,-5,Orchard Park,Buffalo Bills,31.0,Carolina Panthers,14.0,7cfdcaa9-d1f1-1dbd-bf6d-f41321a67d38
+2021,15,12/20/2021,17:00,-5,Cleveland,Cleveland Browns,14.0,Las Vegas Raiders,16.0,1205a648-d88c-274d-83b0-cd6d9208f772
+2021,15,12/18/2021,20:15,-5,Indianapolis,Indianapolis Colts,27.0,New England Patriots,17.0,ba487eef-b96f-3f36-67ab-4af547a397ba
+2021,15,12/19/2021,13:00,-5,Miami Gardens,Miami Dolphins,31.0,New York Jets,24.0,1b08a871-3869-e36d-6958-834a96d0f6d5
+2021,15,12/21/2021,19:00,-5,Philadelphia,Philadelphia Eagles,27.0,Washington Football Team,17.0,b230a486-dd49-efdb-0971-b18807e6c0ed
+2021,15,12/19/2021,16:25,-5,Baltimore,Baltimore Ravens,30.0,Green Bay Packers,31.0,c60a76ca-df7e-65b6-7518-2d60ede0e25c
+2021,15,12/19/2021,13:00,-5,Detroit,Detroit Lions,30.0,Arizona Cardinals,12.0,fa1dde06-722e-e409-3d5f-e2630efe8c0e
+2021,15,12/19/2021,13:00,-5,Jacksonville,Jacksonville Jaguars,16.0,Houston Texans,30.0,1b41b4ea-3d7e-0289-0e85-54a67b9ac8d2
+2021,15,12/19/2021,13:00,-5,East Rutherford,New York Giants,6.0,Dallas Cowboys,21.0,33927617-29c8-4e37-1d82-11981ac4fa15
+2021,15,12/19/2021,13:00,-5,Pittsburgh,Pittsburgh Steelers,19.0,Tennessee Titans,13.0,8b0fe67d-95f7-9938-f6d0-ba37a65dc637
+2021,15,12/19/2021,14:05,-7,Denver,Denver Broncos,10.0,Cincinnati Bengals,15.0,d6c39109-eece-3c13-c80f-1c780c5948a0
+2021,15,12/19/2021,13:05,-8,Santa Clara,San Francisco 49ers,31.0,Atlanta Falcons,13.0,61ced732-3e27-4cf8-15ac-ea3c4cda0b2c
+2021,15,12/21/2021,16:00,-8,Inglewood,Los Angeles Rams,20.0,Seattle Seahawks,10.0,6ed5f7ac-f527-19c7-8f08-152657a5b604
+2021,15,12/19/2021,20:20,-5,Tampa Bay,Tampa Bay Buccaneers,0.0,New Orleans Saints,9.0,7edaadbd-1fa2-edf3-dfd6-5d796fe0b52e
+2021,15,12/20/2021,19:15,-6,Chicago,Chicago Bears,9.0,Minnesota Vikings,17.0,3d3f4076-a80e-722f-db9a-d73e3bda61b5
+2021,16,12/23/2021,19:20,-6,Nashville,Tennessee Titans,20.0,San Francisco 49ers,17.0,490ded7d-2862-ff69-a9b5-e39f85ff1a14
+2021,16,12/25/2021,18:15,-7,Glendale,Arizona Cardinals,16.0,Indianapolis Colts,22.0,1ba8984e-be20-30f1-b454-f290babb3345
+2021,16,12/25/2021,15:30,-6,Green Bay,Green Bay Packers,24.0,Cleveland Browns,22.0,cb5c2b3d-a521-462e-24ea-f52e2e7edf09
+2021,16,12/26/2021,13:00,-5,Atlanta,Atlanta Falcons,20.0,Detroit Lions,16.0,e08036aa-6131-02c1-906b-08be0e047d20
+2021,16,12/26/2021,13:00,-5,Charlotte,Carolina Panthers,6.0,Tampa Bay Buccaneers,32.0,915723e0-f2a2-81d4-68c1-e771fd1b27ec
+2021,16,12/26/2021,12:00,-6,Minneapolis,Minnesota Vikings,23.0,Los Angeles Rams,30.0,c80dba4a-f358-3b4e-82b2-e1871191f8af
+2021,16,12/26/2021,13:00,-5,Foxborough,New England Patriots,21.0,Buffalo Bills,33.0,22ef8741-0960-1660-1c4a-d258d70798ad
+2021,16,12/26/2021,13:00,-5,East Rutherford,New York Jets,26.0,Jacksonville Jaguars,21.0,bf0a9433-6a0f-010a-36d2-e3d0d3abc511
+2021,16,12/26/2021,13:00,-5,Philadelphia,Philadelphia Eagles,34.0,New York Giants,10.0,6e4fc319-d650-756f-28fe-0895ffafd67a
+2021,16,12/26/2021,13:00,-5,Cincinnati,Cincinnati Bengals,41.0,Baltimore Ravens,21.0,729aaf79-83f3-19ad-e218-65439f775540
+2021,16,12/26/2021,13:05,-8,Seattle,Seattle Seahawks,24.0,Chicago Bears,25.0,9f9384c9-93f9-89d2-5e9b-d95570ce53c3
+2021,16,12/26/2021,15:25,-6,Kansas City,Kansas City Chiefs,36.0,Pittsburgh Steelers,10.0,837902a1-c12b-7d9b-3e5a-5402a65d5b6a
+2021,16,12/26/2021,13:25,-8,Las Vegas,Las Vegas Raiders,17.0,Denver Broncos,13.0,0aa64274-7449-93d6-e114-161badadfb7f
+2021,16,12/26/2021,19:20,-6,Arlington,Dallas Cowboys,56.0,Washington Football Team,14.0,88046c37-203c-316f-a49d-43ff364823c0
+2021,16,12/27/2021,19:15,-6,New Orleans,New Orleans Saints,3.0,Miami Dolphins,20.0,3591616d-42ed-1793-f6fe-8751efd74122
+2021,16,12/26/2021,12:00,-6,Houston,Houston Texans,41.0,Los Angeles Chargers,29.0,9c8651ca-e2cb-7d8b-7b90-14886e5de8e6
+2021,17,1/2/2022,13:00,-5,Orchard Park,Buffalo Bills,29.0,Atlanta Falcons,15.0,33bc57c2-a993-838c-2581-8d81a47737c0
+2021,17,1/2/2022,12:00,-6,Chicago,Chicago Bears,29.0,New York Giants,3.0,acc13144-f891-94e4-693e-320ee11f41f8
+2021,17,1/2/2022,15:25,-6,Arlington,Dallas Cowboys,22.0,Arizona Cardinals,25.0,e0085dbe-4f03-78d2-4c93-dbf47dab9bd8
+2021,17,1/2/2022,13:00,-5,Indianapolis,Indianapolis Colts,20.0,Las Vegas Raiders,23.0,cf36c2eb-81d0-b649-8407-69648b32f15e
+2021,17,1/2/2022,15:25,-6,New Orleans,New Orleans Saints,18.0,Carolina Panthers,10.0,8d677ffc-5fcf-d6a7-e9b2-82c57e1e2619
+2021,17,1/2/2022,13:00,-5,East Rutherford,New York Jets,24.0,Tampa Bay Buccaneers,28.0,8129c14e-0d28-47df-d9cd-fae5717335a4
+2021,17,1/2/2022,12:00,-6,Nashville,Tennessee Titans,34.0,Miami Dolphins,3.0,9ec5849d-7d46-3207-7ad0-2333fd5c982c
+2021,17,1/2/2022,13:00,-5,Landover,Washington Football Team,16.0,Philadelphia Eagles,20.0,ef958733-a19c-6c49-3e39-fe4800a3b0cb
+2021,17,1/2/2022,13:00,-5,Cincinnati,Cincinnati Bengals,34.0,Kansas City Chiefs,31.0,d15914ff-029d-2c32-03db-00c68cf789ea
+2021,17,1/2/2022,13:00,-5,Foxborough,New England Patriots,50.0,Jacksonville Jaguars,10.0,80dfcbe9-9b0c-a29b-60e3-4d00217daa79
+2021,17,1/2/2022,13:05,-8,Inglewood,Los Angeles Chargers,34.0,Denver Broncos,13.0,973fef4e-11e0-e011-3e09-2839ef7fa97e
+2021,17,1/2/2022,13:05,-8,Santa Clara,San Francisco 49ers,23.0,Houston Texans,7.0,2ad5a054-2f4a-9015-f23c-474cbd36ffc2
+2021,17,1/2/2022,13:00,-5,Baltimore,Baltimore Ravens,19.0,Los Angeles Rams,20.0,5701614d-47a4-c612-d700-d9ad1214a268
+2021,17,1/2/2022,13:25,-8,Seattle,Seattle Seahawks,51.0,Detroit Lions,29.0,c653ef6d-dce9-ed2c-b777-bfe9bac55d6c
+2021,17,1/2/2022,19:20,-6,Green Bay,Green Bay Packers,37.0,Minnesota Vikings,10.0,cb7d1dc4-f1e4-87de-0d36-cddc5aa9167c
+2021,17,1/3/2022,20:15,-5,Pittsburgh,Pittsburgh Steelers,26.0,Cleveland Browns,14.0,8bbddf97-d268-e56c-ae32-40712bebaf58
+2021,18,1/9/2022,16:25,-5,Atlanta,Atlanta Falcons,20.0,New Orleans Saints,30.0,0b33a17f-a6f9-618f-492b-cdc48467d5be
+2021,18,1/9/2022,13:00,-5,Baltimore,Baltimore Ravens,13.0,Pittsburgh Steelers,16.0,84bf179f-8037-5efc-2ce5-8683e652411d
+2021,18,1/9/2022,16:25,-5,Orchard Park,Buffalo Bills,27.0,New York Jets,10.0,0bc48ddb-a573-856d-cfa7-826205daeb24
+2021,18,1/9/2022,13:00,-5,Cleveland,Cleveland Browns,21.0,Cincinnati Bengals,16.0,5c4fa788-9959-4d40-43a1-d74343ee1828
+2021,18,1/9/2022,13:00,-5,Detroit,Detroit Lions,37.0,Green Bay Packers,30.0,0ae14d64-cdab-42d0-d8a4-f38ce79e2776
+2021,18,1/9/2022,12:00,-6,Houston,Houston Texans,25.0,Tennessee Titans,28.0,03022608-1e61-aacc-8c53-4158cebd7db0
+2021,18,1/9/2022,13:00,-5,Jacksonville,Jacksonville Jaguars,26.0,Indianapolis Colts,11.0,bba47bbc-2469-b9b9-e3d5-2af7989523be
+2021,18,1/9/2022,16:25,-5,Miami Gardens,Miami Dolphins,33.0,New England Patriots,24.0,50bdc5bd-22d4-9c6c-d6cf-c5e4466d4495
+2021,18,1/9/2022,12:00,-6,Minneapolis,Minnesota Vikings,31.0,Chicago Bears,17.0,7ba2e127-0ed3-e64c-729e-7146386fc914
+2021,18,1/8/2022,20:15,-5,Philadelphia,Philadelphia Eagles,26.0,Dallas Cowboys,51.0,bb2bdb19-5695-a67d-4bcf-4f15c4cbebec
+2021,18,1/9/2022,16:25,-5,Tampa Bay,Tampa Bay Buccaneers,41.0,Carolina Panthers,17.0,ed543487-0c3b-21a4-ce7e-8e9ae3d11cc2
+2021,18,1/9/2022,13:00,-5,East Rutherford,New York Giants,7.0,Washington Football Team,22.0,2392a98f-0bbc-015c-a0b2-088a9ee11ad3
+2021,18,1/9/2022,14:25,-7,Glendale,Arizona Cardinals,30.0,Seattle Seahawks,38.0,fdb60ac0-83e2-29c2-0bd0-b3bb30fee9fd
+2021,18,1/8/2022,14:30,-7,Denver,Denver Broncos,24.0,Kansas City Chiefs,28.0,9b73f211-b326-5c6e-74a6-8b190728ed39
+2021,18,1/9/2022,17:20,-8,Las Vegas,Las Vegas Raiders,35.0,Los Angeles Chargers,32.0,231e969f-7f60-39fc-c140-9e2be616de18
+2021,18,1/9/2022,13:25,-8,Inglewood,Los Angeles Rams,24.0,San Francisco 49ers,27.0,94bec320-a0e1-f4e3-3738-be3f135d0c47
+2022,1,9/8/2022,17:20,-8,Inglewood,Los Angeles Rams,10.0,Buffalo Bills,31.0,bfec409e-5fb0-a2b0-1a6a-139301400939
+2022,1,9/11/2022,12:00,-6,Chicago,Chicago Bears,19.0,San Francisco 49ers,10.0,6b9650f5-8ca2-7dc7-de71-b9711b07edfb
+2022,1,9/12/2022,17:15,-8,Seattle,Seattle Seahawks,17.0,Denver Broncos,16.0,45820d8a-2c20-e21c-6cc3-b59923595df5
+2022,1,9/11/2022,13:00,-5,Charlotte,Carolina Panthers,24.0,Cleveland Browns,26.0,f69cfbf9-e920-9840-dacc-e5b18520f636
+2022,1,9/11/2022,12:00,-6,Houston,Houston Texans,20.0,Indianapolis Colts,20.0,a2fb1cac-b333-7021-da08-342f997a3721
+2022,1,9/11/2022,13:00,-5,Landover,Washington Commanders,28.0,Jacksonville Jaguars,22.0,15775ed4-29ab-d582-eb97-344d5ffa0bee
+2022,1,9/11/2022,13:00,-5,Detroit,Detroit Lions,35.0,Philadelphia Eagles,38.0,1859973e-7d7f-ba38-f368-31c51a17f8f0
+2022,1,9/11/2022,13:00,-5,Miami Gardens,Miami Dolphins,20.0,New England Patriots,7.0,b473adbf-bf22-5e3d-0ed6-836dfe9b37a9
+2022,1,9/11/2022,13:00,-5,East Rutherford,New York Jets,9.0,Baltimore Ravens,24.0,ebb97af9-7748-3f94-5d8a-4134d29efc20
+2022,1,9/11/2022,13:00,-5,Atlanta,Atlanta Falcons,26.0,New Orleans Saints,27.0,27f381a9-aa10-9573-54e8-cddd7373c7ba
+2022,1,9/11/2022,13:00,-5,Cincinnati,Cincinnati Bengals,20.0,Pittsburgh Steelers,23.0,bd389039-2f95-8f33-dd54-3d04b6562074
+2022,1,9/11/2022,13:25,-8,Glendale,Arizona Cardinals,21.0,Kansas City Chiefs,44.0,c8e05557-5f9c-e53d-42c4-acbd5a0a046d
+2022,1,9/11/2022,15:25,-6,Nashville,Tennessee Titans,20.0,New York Giants,21.0,1b1d72bf-208a-53a3-6c37-d614317d3ad7
+2022,1,9/11/2022,15:25,-6,Minneapolis,Minnesota Vikings,23.0,Green Bay Packers,7.0,ce54d397-b8a0-05fb-aa8f-7cd6e01390a8
+2022,1,9/11/2022,13:25,-8,Inglewood,Los Angeles Chargers,24.0,Las Vegas Raiders,19.0,30cb6b05-37b6-5f5f-4ba5-a9749c22edac
+2022,1,9/11/2022,19:20,-6,Arlington,Dallas Cowboys,3.0,Tampa Bay Buccaneers,19.0,124fb41d-129a-2985-d87a-10f0263c9c96
+2022,2,9/15/2022,19:15,-6,Kansas City,Kansas City Chiefs,27.0,Los Angeles Chargers,24.0,df52f41d-6a19-7a54-fe00-b78072a326d7
+2022,2,9/18/2022,12:00,-6,New Orleans,New Orleans Saints,10.0,Tampa Bay Buccaneers,20.0,5b21ffca-5270-10a2-b725-b066b710106a
+2022,2,9/18/2022,13:00,-5,Jacksonville,Jacksonville Jaguars,24.0,Indianapolis Colts,0.0,9bce7754-06d2-ca42-7c67-e53b9c69ec07
+2022,2,9/18/2022,13:00,-5,Detroit,Detroit Lions,36.0,Washington Commanders,27.0,d5032ed0-efa2-1faf-dd88-14762e3a2de9
+2022,2,9/18/2022,13:00,-5,Baltimore,Baltimore Ravens,38.0,Miami Dolphins,42.0,7094ddb1-5503-8f92-9b60-f83703d144e3
+2022,2,9/18/2022,13:00,-5,Cleveland,Cleveland Browns,30.0,New York Jets,31.0,2d1e6e6b-afd3-cde3-d832-0f788d4e36ea
+2022,2,9/18/2022,13:00,-5,East Rutherford,New York Giants,19.0,Carolina Panthers,16.0,3b6a6131-189f-c676-a4a6-1d2afcc12c0a
+2022,2,9/18/2022,13:00,-5,Pittsburgh,Pittsburgh Steelers,14.0,New England Patriots,17.0,7ccf3723-141a-28cc-dcc5-eed454ee3958
+2022,2,9/18/2022,13:05,-8,Inglewood,Los Angeles Rams,31.0,Atlanta Falcons,27.0,5a23625f-2931-ac9f-04af-02414f334677
+2022,2,9/18/2022,13:05,-8,Santa Clara,San Francisco 49ers,27.0,Seattle Seahawks,7.0,ff3b9faf-2f46-750d-22f5-61b693f52758
+2022,2,9/18/2022,15:25,-6,Arlington,Dallas Cowboys,20.0,Cincinnati Bengals,17.0,05173e91-e9f0-9ea7-a113-bada744fcbd3
+2022,2,9/18/2022,13:25,-8,Las Vegas,Las Vegas Raiders,23.0,Arizona Cardinals,29.0,5d37adfc-45e2-6dbf-7a6a-0840040e9f60
+2022,2,9/18/2022,14:25,-7,Denver,Denver Broncos,16.0,Houston Texans,9.0,9a57057f-ed6c-2aa0-212c-71e1edaa987e
+2022,2,9/18/2022,19:20,-6,Green Bay,Green Bay Packers,27.0,Chicago Bears,10.0,fd868dea-ca97-c8cc-6230-aae82438f568
+2022,5,10/9/2022,13:00,-5,Landover,Washington Commanders,17.0,Tennessee Titans,21.0,132bc307-3532-dce0-d33e-fb76932df4db
+2022,2,9/19/2022,19:15,-5,Orchard Park,Buffalo Bills,41.0,Tennessee Titans,7.0,5abde370-7905-b014-b948-a3ea0611eec1
+2022,2,9/19/2022,20:30,-5,Philadelphia,Philadelphia Eagles,24.0,Minnesota Vikings,7.0,b8011dcd-9ffd-4a0c-2947-a05c42a47180
+2022,3,9/22/2022,20:15,-5,Cleveland,Cleveland Browns,29.0,Pittsburgh Steelers,17.0,bbd1abe3-949f-d951-1f34-2cc6c25bfa6d
+2022,3,9/25/2022,13:00,-5,East Rutherford,New York Jets,12.0,Cincinnati Bengals,27.0,4ad3f080-5ea5-f67c-eecc-1d45fe7b9b30
+2022,3,9/25/2022,13:00,-5,Miami Gardens,Miami Dolphins,21.0,Buffalo Bills,19.0,fc223a85-29a4-3b4a-b018-3e0b57fa99d8
+2022,3,9/25/2022,13:00,-5,Indianapolis,Indianapolis Colts,20.0,Kansas City Chiefs,17.0,65864198-e0cc-e02e-ad9a-7e5ca54f6f0d
+2022,3,9/25/2022,13:00,-5,Landover,Washington Commanders,8.0,Philadelphia Eagles,24.0,9163cad4-a84b-6133-26b4-372e942e281b
+2022,3,9/25/2022,12:00,-6,Minneapolis,Minnesota Vikings,28.0,Detroit Lions,24.0,2af9dcc7-cd8e-a574-d4a2-05eb126a1762
+2022,3,9/25/2022,12:00,-6,Nashville,Tennessee Titans,24.0,Las Vegas Raiders,22.0,fd996eb9-129c-056a-4fb9-f55742c40963
+2022,3,9/25/2022,13:00,-5,Foxborough,New England Patriots,26.0,Baltimore Ravens,37.0,708c95e0-c6e5-fd9b-b76c-90f468735c9c
+2022,3,9/25/2022,13:00,-5,Charlotte,Carolina Panthers,22.0,New Orleans Saints,14.0,31180572-ebda-40dc-3338-d71a1a0e8a48
+2022,3,9/25/2022,12:00,-6,Chicago,Chicago Bears,23.0,Houston Texans,20.0,16fc72e2-0a27-422c-0e61-4442aabff736
+2022,3,9/25/2022,13:05,-8,Inglewood,Los Angeles Chargers,10.0,Jacksonville Jaguars,38.0,132fea5f-9143-f8af-f8fd-2f809ecd023b
+2022,3,9/25/2022,13:25,-8,Seattle,Seattle Seahawks,23.0,Atlanta Falcons,27.0,a3beabcf-e2bd-19ef-1550-b280b0587b4b
+2022,3,9/25/2022,16:25,-5,Tampa Bay,Tampa Bay Buccaneers,12.0,Green Bay Packers,14.0,6d8ddb1e-0e11-a3d2-d13d-ddd8b8dbb5e6
+2022,3,9/25/2022,13:25,-8,Glendale,Arizona Cardinals,12.0,Los Angeles Rams,20.0,4cef556a-c8a5-f462-73de-0da2541ec4ee
+2022,3,9/25/2022,18:20,-7,Denver,Denver Broncos,11.0,San Francisco 49ers,10.0,3d0fdd04-efbd-db17-48b6-0df19eaf7cc5
+2022,3,9/26/2022,20:15,-5,East Rutherford,New York Giants,16.0,Dallas Cowboys,23.0,1d41b54f-85ac-0a06-6c1c-6e0a2e6bc576
+2022,4,9/29/2022,20:15,-5,Cincinnati,Cincinnati Bengals,27.0,Miami Dolphins,15.0,2046b6cc-7561-5f88-ecc6-0e7a8e854059
+2022,4,10/2/2022,13:00,-5,East Rutherford,New York Giants,20.0,Chicago Bears,12.0,e31d577c-26c6-414e-49bb-3816906df4a6
+2022,4,10/2/2022,13:00,-5,Baltimore,Baltimore Ravens,20.0,Buffalo Bills,23.0,efc34b23-a859-3a0d-1278-4ddf5778b0d3
+2022,4,10/2/2022,13:00,-5,Atlanta,Atlanta Falcons,23.0,Cleveland Browns,20.0,4596b4da-4f07-4f37-0957-9f759223cb46
+2022,4,10/2/2022,12:00,-6,Houston,Houston Texans,24.0,Los Angeles Chargers,34.0,c92edb45-5e6f-d7d8-04a5-f8518761f65d
+2022,4,10/2/2022,12:00,-6,Arlington,Dallas Cowboys,25.0,Washington Commanders,10.0,cf999dae-ac56-d60e-ec3f-e2a1e60cf223
+2022,4,10/2/2022,13:00,-5,Philadelphia,Philadelphia Eagles,29.0,Jacksonville Jaguars,21.0,7fbba176-5158-4ac5-da4f-d83630f7c22a
+2022,4,10/2/2022,13:00,-5,Pittsburgh,Pittsburgh Steelers,20.0,New York Jets,24.0,aaa1824f-49f5-885e-5a13-178d385ff8af
+2022,4,10/2/2022,13:00,-5,Detroit,Detroit Lions,45.0,Seattle Seahawks,48.0,899e0fb4-1a4e-9938-8f0a-328addf19ef6
+2022,4,10/2/2022,13:00,-5,Indianapolis,Indianapolis Colts,17.0,Tennessee Titans,24.0,5bc06eb1-778b-a46f-3c4e-88bc2a7dbfc8
+2022,4,10/2/2022,16:05,-5,Charlotte,Carolina Panthers,16.0,Arizona Cardinals,26.0,712d02f3-11dd-f1ba-2019-3e13a7ca3d32
+2022,4,10/2/2022,13:25,-8,Las Vegas,Las Vegas Raiders,32.0,Denver Broncos,23.0,67cbb6c0-a90a-bc28-2021-54d0487b9585
+2022,4,10/2/2022,15:25,-6,Green Bay,Green Bay Packers,27.0,New England Patriots,24.0,ac45f84a-85d4-9e19-bec7-c34df53ee472
+2022,4,10/3/2022,17:15,-8,Santa Clara,San Francisco 49ers,24.0,Los Angeles Rams,9.0,2ff9443b-6b1c-3fad-6b59-1677e5f7d5f5
+2022,4,10/2/2022,20:20,-5,Tampa Bay,Tampa Bay Buccaneers,31.0,Kansas City Chiefs,41.0,810e82dc-6e02-9f78-07ee-13a4952b9625
+2022,5,10/6/2022,18:15,-7,Denver,Denver Broncos,9.0,Indianapolis Colts,12.0,270b6162-635d-4f5d-308c-96de67f8a43c
+2022,5,10/9/2022,12:00,-6,Minneapolis,Minnesota Vikings,29.0,Chicago Bears,22.0,6a3b3b68-7951-0e97-25d1-5c1f39e38b39
+2022,5,10/9/2022,13:00,-5,Cleveland,Cleveland Browns,28.0,Los Angeles Chargers,30.0,6af2c5c3-3852-c7c2-9a02-38ec0bdc981b
+2022,5,10/9/2022,13:00,-5,East Rutherford,New York Jets,40.0,Miami Dolphins,17.0,5ada45ff-ab49-976d-1d64-3ae1e7b96f1a
+2022,5,10/9/2022,13:00,-5,Tampa Bay,Tampa Bay Buccaneers,21.0,Atlanta Falcons,15.0,79cb704c-96a7-4bcb-c436-111f75704b2a
+2022,5,10/9/2022,13:00,-5,Foxborough,New England Patriots,29.0,Detroit Lions,0.0,6b580c7f-2cb0-a3f3-86c1-7201ee8c4732
+2022,5,10/9/2022,12:00,-6,New Orleans,New Orleans Saints,39.0,Seattle Seahawks,32.0,4d648da7-515b-9b06-9beb-5c5691ccb1b3
+2022,5,10/9/2022,13:00,-5,Orchard Park,Buffalo Bills,38.0,Pittsburgh Steelers,3.0,77df754c-46ab-c1ce-0a2c-e6f450fcdce4
+2022,5,10/9/2022,13:00,-5,Jacksonville,Jacksonville Jaguars,6.0,Houston Texans,13.0,ae9c0509-b7e3-fa1f-a161-aa0f1d71210b
+2022,5,10/9/2022,16:05,-5,Charlotte,Carolina Panthers,15.0,San Francisco 49ers,37.0,06583502-a8e6-d396-7d17-6779b08f66ee
+2022,5,10/9/2022,13:25,-8,Inglewood,Los Angeles Rams,10.0,Dallas Cowboys,22.0,3dc6bd8c-6d5a-7ccb-7490-4a426d49df96
+2022,5,10/9/2022,13:25,-8,Glendale,Arizona Cardinals,17.0,Philadelphia Eagles,20.0,b4382878-a946-7dd1-47af-c4106188d86e
+2022,5,10/9/2022,20:20,-5,Baltimore,Baltimore Ravens,19.0,Cincinnati Bengals,17.0,75c91d71-581f-0829-4959-0aa8cf3881ae
+2022,5,10/10/2022,19:15,-6,Kansas City,Kansas City Chiefs,30.0,Las Vegas Raiders,29.0,f4562d1e-55b8-5cda-a3e3-c29c8d1f3a55
+2022,6,10/13/2022,19:15,-6,Chicago,Chicago Bears,7.0,Washington Commanders,12.0,df39f4e1-65ae-2093-4c8d-8c054e1ea2a6
+2022,6,10/16/2022,13:00,-5,Atlanta,Atlanta Falcons,28.0,San Francisco 49ers,14.0,962b74cb-a637-3bbf-c952-e812ce9db1d1
+2022,6,10/16/2022,12:00,-6,New Orleans,New Orleans Saints,26.0,Cincinnati Bengals,30.0,e90ffd5c-6706-f398-73bb-fe066ab7cb87
+2022,6,10/16/2022,13:00,-5,Pittsburgh,Pittsburgh Steelers,20.0,Tampa Bay Buccaneers,18.0,7f14f5fc-2113-9fed-f423-b3b7b18babca
+2022,6,10/16/2022,13:00,-5,Indianapolis,Indianapolis Colts,34.0,Jacksonville Jaguars,27.0,2f6b4b00-0cc6-2dc8-6735-b81aa47a6f2a
+2022,6,10/16/2022,13:00,-5,Cleveland,Cleveland Browns,15.0,New England Patriots,38.0,8f743c34-de65-7fc6-7eee-97cae5f695a9
+2022,6,10/16/2022,13:00,-5,East Rutherford,New York Giants,24.0,Baltimore Ravens,20.0,4198b2f1-68e3-e054-6dea-839081887cb8
+2022,6,10/16/2022,13:00,-5,Miami Gardens,Miami Dolphins,16.0,Minnesota Vikings,24.0,88809f7a-1412-dec3-ac4f-a21eeaef3774
+2022,6,10/16/2022,13:05,-8,Seattle,Seattle Seahawks,19.0,Arizona Cardinals,9.0,b9b0539c-f776-350f-c7f9-28c783179a87
+2022,6,10/16/2022,13:05,-8,Inglewood,Los Angeles Rams,24.0,Carolina Panthers,10.0,ef37b88c-7bc8-6cfd-9217-40dda71f04c9
+2022,6,10/16/2022,15:25,-6,Kansas City,Kansas City Chiefs,20.0,Buffalo Bills,24.0,0030222f-b2eb-77a8-d2a5-8ceb16e7e278
+2022,6,10/16/2022,20:20,-5,Philadelphia,Philadelphia Eagles,26.0,Dallas Cowboys,17.0,ad5c73b9-7384-eb16-7b63-c5d91be911b4
+2022,6,10/17/2022,17:15,-8,Inglewood,Los Angeles Chargers,19.0,Denver Broncos,16.0,caab543b-15bc-3660-078e-3b40b8cfe533
+2022,7,10/20/2022,17:15,-8,Glendale,Arizona Cardinals,42.0,New Orleans Saints,34.0,81c71f9b-3b9d-f0fc-4575-75beda55997c
+2022,7,10/23/2022,13:00,-5,Baltimore,Baltimore Ravens,23.0,Cleveland Browns,20.0,acee6a5d-7fb0-9a7a-0989-88ea08552079
+2022,7,10/23/2022,13:00,-5,Charlotte,Carolina Panthers,21.0,Tampa Bay Buccaneers,3.0,e4b1415e-d515-d3e8-a5ee-beaa057bd4cf
+2022,7,10/23/2022,12:00,-6,Nashville,Tennessee Titans,19.0,Indianapolis Colts,10.0,1f4b5430-b322-7884-707a-04932ee81624
+2022,7,10/23/2022,13:00,-5,Cincinnati,Cincinnati Bengals,35.0,Atlanta Falcons,17.0,0f9c8042-51fc-dd48-5289-978934cdcef3
+2022,7,10/23/2022,13:00,-5,Jacksonville,Jacksonville Jaguars,17.0,New York Giants,23.0,6b8681e9-283c-95fc-d655-d88143eec270
+2022,6,10/16/2022,12:00,-6,Green Bay,Green Bay Packers,10.0,New York Jets,27.0,82b457d8-850d-4f7f-7712-252fe492babb
+2022,7,10/23/2022,12:00,-6,Arlington,Dallas Cowboys,24.0,Detroit Lions,6.0,f0534b67-1850-d7f2-f1bd-6984ec2acadf
+2022,7,10/23/2022,13:00,-5,Landover,Washington Commanders,23.0,Green Bay Packers,21.0,017bd398-4619-548d-a222-b715b2443df8
+2022,15,12/17/2022,16:30,-5,Cleveland,Cleveland Browns,13.0,Baltimore Ravens,3.0,22c629e3-7a35-8346-95eb-c9ee0cb23b8a
+2022,7,10/23/2022,14:05,-7,Denver,Denver Broncos,9.0,New York Jets,16.0,40d3ec05-1ab4-86bc-f76f-4772a5b63c28
+2022,7,10/23/2022,13:05,-8,Las Vegas,Las Vegas Raiders,38.0,Houston Texans,20.0,8d660cba-0a24-8af8-6c11-63ffdc50a4c9
+2022,7,10/23/2022,13:25,-8,Santa Clara,San Francisco 49ers,23.0,Kansas City Chiefs,44.0,9d51af29-b3f8-a0d2-058c-8dc425eb0e73
+2022,7,10/23/2022,13:25,-8,Inglewood,Los Angeles Chargers,23.0,Seattle Seahawks,37.0,c35dbd6e-65e8-0c34-d019-e1f4d2640c96
+2022,7,10/23/2022,20:20,-5,Miami Gardens,Miami Dolphins,16.0,Pittsburgh Steelers,10.0,df514a49-5180-6a97-e86c-5eef348b85da
+2022,7,10/24/2022,20:15,-5,Foxborough,New England Patriots,14.0,Chicago Bears,33.0,bffd96ea-4d8d-0b03-ec27-ad9be57e7ab9
+2022,8,10/27/2022,20:15,-5,Tampa Bay,Tampa Bay Buccaneers,22.0,Baltimore Ravens,27.0,3b7b724c-7581-1d38-c855-191c8c5b84cc
+2022,8,10/30/2022,12:00,-6,Arlington,Dallas Cowboys,49.0,Chicago Bears,29.0,bec2d9c0-bce8-4162-3411-44d3e3b6ce23
+2022,8,10/30/2022,12:00,-6,Minneapolis,Minnesota Vikings,34.0,Arizona Cardinals,26.0,a6f04169-20b7-13db-8e46-e3806f2a5374
+2022,8,10/30/2022,13:00,-5,Detroit,Detroit Lions,27.0,Miami Dolphins,31.0,9db3f485-55b2-c950-f887-f7ce28acc219
+2022,8,10/30/2022,13:00,-5,Atlanta,Atlanta Falcons,37.0,Carolina Panthers,34.0,44c5ae40-b19e-7d07-2c92-1eb756adcf1b
+2022,8,10/30/2022,13:00,-5,East Rutherford,New York Jets,17.0,New England Patriots,22.0,ccb8c045-e71f-905f-b2f7-eb5d4d080949
+2022,8,10/30/2022,12:00,-6,New Orleans,New Orleans Saints,24.0,Las Vegas Raiders,0.0,064110b7-8d30-6b67-d0e2-b3a182c40f01
+2022,8,10/30/2022,13:00,-5,Philadelphia,Philadelphia Eagles,35.0,Pittsburgh Steelers,13.0,2c597a95-2d63-426a-25e4-919320b10b0c
+2022,8,10/30/2022,15:05,-6,Houston,Houston Texans,10.0,Tennessee Titans,17.0,5c28fb16-2e54-66af-58ab-bfbb20bc3cef
+2022,8,10/30/2022,13:25,-8,Inglewood,Los Angeles Rams,14.0,San Francisco 49ers,31.0,038df333-0672-5c0f-41fb-fdf7fdd90b49
+2022,8,10/30/2022,16:25,-5,Indianapolis,Indianapolis Colts,16.0,Washington Commanders,17.0,e5947c7e-eb18-0777-b8ba-2490c050eed0
+2022,8,10/30/2022,13:25,-8,Seattle,Seattle Seahawks,27.0,New York Giants,13.0,c8b02fd0-efad-c5b8-b264-d24108de90d3
+2022,8,10/30/2022,20:20,-5,Orchard Park,Buffalo Bills,27.0,Green Bay Packers,17.0,acc22231-3794-8aa1-d74a-518e8a90968e
+2022,8,10/31/2022,20:15,-5,Cleveland,Cleveland Browns,32.0,Cincinnati Bengals,13.0,95439cbc-f871-a537-3129-9df45ece3ea7
+2022,9,11/3/2022,19:15,-6,Houston,Houston Texans,17.0,Philadelphia Eagles,29.0,681d4a81-bedb-b8d8-e5db-04e738cd202e
+2022,9,11/6/2022,13:00,-5,Atlanta,Atlanta Falcons,17.0,Los Angeles Chargers,20.0,d0d5298c-ae1d-172e-1e03-7613ddfd5087
+2022,9,11/6/2022,13:00,-5,Foxborough,New England Patriots,26.0,Indianapolis Colts,3.0,051103eb-1cde-95a9-f03a-31b7d227e2d0
+2022,9,11/6/2022,12:00,-6,Chicago,Chicago Bears,32.0,Miami Dolphins,35.0,4c96a9a3-5689-1254-4953-038c39d0ccf7
+2022,18,1/8/2023,19:20,-6,Green Bay,Green Bay Packers,16.0,Detroit Lions,20.0,0e219b32-320a-9efc-29f4-d082f8a2ba5d
+2022,9,11/6/2022,13:00,-5,Detroit,Detroit Lions,15.0,Green Bay Packers,9.0,54e45d36-b366-9ce7-8942-2c417c84fa09
+2022,9,11/6/2022,13:00,-5,Cincinnati,Cincinnati Bengals,42.0,Carolina Panthers,21.0,6b2294fc-4f76-bf17-0209-db5430ba1cb6
+2022,9,11/6/2022,13:00,-5,Jacksonville,Jacksonville Jaguars,27.0,Las Vegas Raiders,20.0,faf3924b-28ac-3eda-911c-86a4a62fdc86
+2022,9,11/6/2022,13:00,-5,Landover,Washington Commanders,17.0,Minnesota Vikings,20.0,95eff7b3-6da4-206d-22ca-b98ce2458b1f
+2022,9,11/6/2022,14:05,-7,Glendale,Arizona Cardinals,21.0,Seattle Seahawks,31.0,62dbd389-8906-b298-12e7-0c539dbfa030
+2022,9,11/6/2022,16:25,-5,Tampa Bay,Tampa Bay Buccaneers,16.0,Los Angeles Rams,13.0,8d1ea806-2e46-72f1-697b-006bc4ad6a32
+2022,9,11/6/2022,19:20,-6,Kansas City,Kansas City Chiefs,20.0,Tennessee Titans,17.0,b897d941-084e-eb61-2a2d-f7787312eb88
+2022,9,11/7/2022,19:15,-6,New Orleans,New Orleans Saints,13.0,Baltimore Ravens,27.0,e611627e-5214-3534-d105-2caa458452b5
+2022,10,11/10/2022,20:15,-5,Charlotte,Carolina Panthers,25.0,Atlanta Falcons,15.0,d21f5db7-73c1-3bed-37a3-1c904726da8b
+2022,10,11/13/2022,12:00,-6,Nashville,Tennessee Titans,17.0,Denver Broncos,10.0,e5e42ab4-c63b-b067-6919-37fd3bbb03b1
+2022,10,11/13/2022,13:00,-5,Miami Gardens,Miami Dolphins,39.0,Cleveland Browns,17.0,11834ec7-0952-8625-36f2-961d83a395c8
+2022,10,11/13/2022,12:00,-6,Kansas City,Kansas City Chiefs,27.0,Jacksonville Jaguars,17.0,a258809f-aeda-79ff-8b06-7bee6e9c7ad1
+2022,10,11/13/2022,13:00,-5,Pittsburgh,Pittsburgh Steelers,20.0,New Orleans Saints,10.0,85c4eb10-ba6c-2a01-418e-ef4b9a31f48b
+2022,10,11/13/2022,13:00,-5,East Rutherford,New York Giants,24.0,Houston Texans,16.0,cb0fae02-9082-cc30-ea6e-1b101b38de8a
+2022,10,11/13/2022,13:00,-5,Orchard Park,Buffalo Bills,30.0,Minnesota Vikings,33.0,6731f9d6-1cf7-8d27-584c-243e4aa90bcd
+2022,10,11/13/2022,13:05,-8,Las Vegas,Las Vegas Raiders,20.0,Indianapolis Colts,25.0,f620cdc2-5ffb-a95c-359d-4523db3b5e0f
+2022,10,11/13/2022,13:25,-8,Inglewood,Los Angeles Rams,17.0,Arizona Cardinals,27.0,252c59db-b498-1329-e01a-afec4833b1ca
+2022,10,11/13/2022,15:25,-6,Green Bay,Green Bay Packers,31.0,Dallas Cowboys,28.0,71f9368c-0d67-3fb2-e620-570ec0e456d7
+2022,10,11/13/2022,17:20,-8,Santa Clara,San Francisco 49ers,22.0,Los Angeles Chargers,16.0,5a6a4c52-ab15-9912-d62b-1b6fd4c0f80f
+2022,10,11/14/2022,20:15,-5,Philadelphia,Philadelphia Eagles,21.0,Washington Commanders,32.0,c248e5a7-d3c8-97ce-b3e9-04d80dcc42d4
+2022,11,11/17/2022,19:15,-6,Green Bay,Green Bay Packers,17.0,Tennessee Titans,27.0,76d616bf-1f78-b4cb-2fda-00575b139ba4
+2022,11,11/20/2022,13:00,-5,Atlanta,Atlanta Falcons,27.0,Chicago Bears,24.0,6410cb05-27a6-9ef1-7ffe-aac1e7f2f0af
+2022,11,11/20/2022,13:00,-5,Detroit,Buffalo Bills,31.0,Cleveland Browns,23.0,27fa4766-0460-10bb-bc69-83aff1fd29a1
+2022,11,11/20/2022,12:00,-6,Houston,Houston Texans,10.0,Washington Commanders,23.0,4425aecb-9bb2-d663-0079-af79489b805e
+2022,11,11/20/2022,13:00,-5,Indianapolis,Indianapolis Colts,16.0,Philadelphia Eagles,17.0,e84dd435-bd17-0029-ec0a-5c791691f19b
+2022,11,11/20/2022,13:00,-5,Foxborough,New England Patriots,10.0,New York Jets,3.0,3fb979ad-37d7-e629-5881-54e17ca2fed8
+2022,11,11/20/2022,13:00,-5,East Rutherford,New York Giants,18.0,Detroit Lions,31.0,ad602b8d-8c38-c102-a565-38d9f4324d11
+2022,11,11/20/2022,13:00,-5,Baltimore,Baltimore Ravens,13.0,Carolina Panthers,3.0,a704f32b-fb83-67ef-2b1f-13082a84de5c
+2022,11,11/20/2022,12:00,-6,New Orleans,New Orleans Saints,27.0,Los Angeles Rams,20.0,be557533-a916-fcc9-fde0-458eb11c208d
+2022,11,11/20/2022,14:05,-7,Denver,Denver Broncos,16.0,Las Vegas Raiders,22.0,35e77dc5-e46d-d111-2e17-393be6311868
+2022,11,11/20/2022,17:20,-8,Inglewood,Los Angeles Chargers,27.0,Kansas City Chiefs,30.0,e539b9f9-aa4d-9590-3053-8185f398ecbe
+2022,11,11/20/2022,15:25,-6,Minneapolis,Minnesota Vikings,3.0,Dallas Cowboys,40.0,27137e15-e572-b4b2-cdca-edcd8fbc9b83
+2022,11,11/20/2022,16:25,-5,Pittsburgh,Pittsburgh Steelers,30.0,Cincinnati Bengals,37.0,d5941c5f-147d-aab1-6f48-0080e1ae4833
+2022,11,11/21/2022,19:15,-6,Mexico City,Arizona Cardinals,10.0,San Francisco 49ers,38.0,0adcfb96-c6a0-9952-ff87-7b7f7a3732ec
+2022,12,11/24/2022,12:30,-5,Detroit,Detroit Lions,25.0,Buffalo Bills,28.0,15b39c6e-090d-9990-0488-b4e75b55cbef
+2022,12,11/24/2022,15:30,-6,Arlington,Dallas Cowboys,28.0,New York Giants,20.0,5ffe5892-b36f-6709-a1c0-f7f7f7fbd724
+2022,12,11/24/2022,19:20,-6,Minneapolis,Minnesota Vikings,33.0,New England Patriots,26.0,09fa74b5-40f2-5476-b88a-529db4bec30b
+2022,12,11/27/2022,13:00,-5,East Rutherford,New York Jets,31.0,Chicago Bears,10.0,ca07e002-9ebf-62dd-f82b-a72cc351466a
+2022,12,11/27/2022,12:00,-6,Nashville,Tennessee Titans,16.0,Cincinnati Bengals,20.0,318e429d-ae98-bdef-25ac-0d3491776e55
+2022,12,11/27/2022,13:00,-5,Charlotte,Carolina Panthers,23.0,Denver Broncos,10.0,3fcc781b-d0b1-d10e-badc-4e33689454bb
+2022,12,11/27/2022,13:00,-5,Cleveland,Cleveland Browns,23.0,Tampa Bay Buccaneers,17.0,476dd1c5-bdc5-d36f-8b98-a4cc5b62bce7
+2022,12,11/27/2022,13:00,-5,Landover,Washington Commanders,19.0,Atlanta Falcons,13.0,df647937-6c88-7a8a-7bc1-4fbec9ca0713
+2022,12,11/27/2022,13:00,-5,Jacksonville,Jacksonville Jaguars,28.0,Baltimore Ravens,27.0,66ab1b26-ecc9-5c31-4585-35c53dc787a0
+2022,12,11/27/2022,13:00,-5,Miami Gardens,Miami Dolphins,30.0,Houston Texans,15.0,1dbffff6-93ee-e0dd-173b-713ff2e63a63
+2022,12,11/27/2022,14:05,-7,Glendale,Arizona Cardinals,24.0,Los Angeles Chargers,25.0,4057ac95-bade-8e79-9134-7bbbf25e6760
+2022,12,11/27/2022,13:05,-8,Seattle,Seattle Seahawks,34.0,Las Vegas Raiders,40.0,61f137f8-b735-3e32-9fbc-0ca19a192f97
+2022,12,11/27/2022,13:25,-8,Santa Clara,San Francisco 49ers,13.0,New Orleans Saints,0.0,e4953b7d-314e-db17-b1c9-c2ebe7dd4a83
+2022,12,11/27/2022,20:20,-5,Philadelphia,Philadelphia Eagles,40.0,Green Bay Packers,33.0,3affb97f-1ffa-1d34-d118-7d28d794226b
+2022,12,11/27/2022,15:25,-6,Kansas City,Kansas City Chiefs,26.0,Los Angeles Rams,10.0,21857e9d-59e3-a3b1-8375-49af8dd13c18
+2022,12,11/28/2022,20:15,-5,Indianapolis,Indianapolis Colts,17.0,Pittsburgh Steelers,24.0,6e4c9b3f-6886-1b30-3760-148ce28b1fd4
+2022,13,12/4/2022,13:00,-5,Baltimore,Baltimore Ravens,10.0,Denver Broncos,9.0,f57fc4bb-6e5f-ae69-e2b5-37a6f95c94f1
+2022,13,12/4/2022,12:00,-6,Houston,Houston Texans,14.0,Cleveland Browns,27.0,72fe07f7-85fd-52cc-bcd6-be8215e6011e
+2022,13,12/4/2022,13:00,-5,East Rutherford,New York Giants,20.0,Washington Commanders,20.0,6cb2cf84-df25-6c92-809f-6231a9e35002
+2022,15,12/18/2022,20:20,-5,Landover,Washington Commanders,12.0,New York Giants,20.0,8a2988cd-179b-188a-9552-3e92498d787b
+2022,13,12/4/2022,13:00,-5,Detroit,Detroit Lions,40.0,Jacksonville Jaguars,14.0,21907627-739b-b82b-8671-28527dfb8020
+2022,13,12/4/2022,12:00,-6,Minneapolis,Minnesota Vikings,27.0,New York Jets,22.0,967c480f-2153-6f07-48d5-803cd1a960d4
+2022,13,12/4/2022,12:00,-6,Chicago,Chicago Bears,19.0,Green Bay Packers,28.0,6ef5a284-6e37-48fb-625e-84d9c759573e
+2022,13,12/4/2022,13:00,-5,Atlanta,Atlanta Falcons,16.0,Pittsburgh Steelers,19.0,516b31ef-1255-e3ab-3f49-83272115b45f
+2022,13,12/4/2022,13:00,-5,Philadelphia,Philadelphia Eagles,35.0,Tennessee Titans,10.0,b0d4707e-3522-f1ee-dc42-aaa2ebaa4caf
+2022,13,12/4/2022,13:05,-8,Santa Clara,San Francisco 49ers,33.0,Miami Dolphins,17.0,665189cd-6c53-0483-20d0-a4c0d8b0e5e5
+2022,13,12/4/2022,13:05,-8,Inglewood,Los Angeles Rams,23.0,Seattle Seahawks,27.0,f797a7d1-0e13-374c-f4a8-a62a4793b0d3
+2022,13,12/4/2022,13:25,-8,Las Vegas,Las Vegas Raiders,27.0,Los Angeles Chargers,20.0,29920038-0361-4ac9-7573-3e69b8ec5d08
+2022,13,12/4/2022,16:25,-5,Cincinnati,Cincinnati Bengals,27.0,Kansas City Chiefs,24.0,203fe8eb-1b38-67d8-bd23-83971aa42866
+2022,13,12/4/2022,19:20,-6,Arlington,Dallas Cowboys,54.0,Indianapolis Colts,19.0,0aae7870-f3f0-f49c-96ef-4c6f14214212
+2022,13,12/5/2022,20:15,-5,Tampa Bay,Tampa Bay Buccaneers,17.0,New Orleans Saints,16.0,391844b5-9a27-b21a-6abd-a3d0af4b5d4b
+2022,14,12/8/2022,17:15,-8,Inglewood,Los Angeles Rams,17.0,Las Vegas Raiders,16.0,a4dedd4c-fd30-cc3f-2a52-debda2150bf0
+2022,9,11/6/2022,13:00,-5,East Rutherford,New York Jets,20.0,Buffalo Bills,17.0,83042baf-7ecc-a0d8-0c0a-9a2f5c0cb5c9
+2022,14,12/11/2022,13:00,-5,Cincinnati,Cincinnati Bengals,23.0,Cleveland Browns,10.0,2e8e26f0-2e06-52e1-bd0b-7de81f48da6e
+2022,15,12/18/2022,12:00,-6,Houston,Houston Texans,24.0,Kansas City Chiefs,30.0,f94e6d51-5ac2-36b3-3ca4-7694389c67b1
+2022,14,12/11/2022,13:00,-5,East Rutherford,New York Giants,22.0,Philadelphia Eagles,48.0,ea9a242e-a4f4-9e35-bc94-2e08c8ab34da
+2022,14,12/11/2022,13:00,-5,Orchard Park,Buffalo Bills,20.0,New York Jets,12.0,d093cf94-5344-5439-c569-7aacfe207366
+2022,14,12/11/2022,13:00,-5,Pittsburgh,Pittsburgh Steelers,14.0,Baltimore Ravens,16.0,af47781f-2f25-8894-dac1-bbebe5256ba1
+2022,14,12/11/2022,12:00,-6,Arlington,Dallas Cowboys,27.0,Houston Texans,23.0,9f445187-f847-aee5-1f77-1f80b0ffea94
+2022,14,12/11/2022,12:00,-6,Nashville,Tennessee Titans,22.0,Jacksonville Jaguars,36.0,0ab22e5d-fada-3d94-75dc-c28f5fdd6ed3
+2022,14,12/11/2022,13:00,-5,Detroit,Detroit Lions,34.0,Minnesota Vikings,23.0,b109ea16-44c9-e47b-76af-01dde021cd77
+2022,14,12/11/2022,17:20,-8,Inglewood,Los Angeles Chargers,23.0,Miami Dolphins,17.0,3f0edc99-bf3f-a4ef-874c-3db314a107a0
+2022,14,12/11/2022,13:25,-8,Santa Clara,San Francisco 49ers,35.0,Tampa Bay Buccaneers,7.0,d1510c4f-9c21-c255-5585-e3011d88b099
+2022,14,12/11/2022,13:25,-8,Seattle,Seattle Seahawks,24.0,Carolina Panthers,30.0,4d77c6f2-eb4f-252c-4226-a5de9c96cddd
+2022,14,12/11/2022,14:05,-7,Denver,Denver Broncos,28.0,Kansas City Chiefs,34.0,00f3dbfe-b5ef-fd08-851a-5852a8d99e98
+2022,14,12/12/2022,18:15,-7,Glendale,Arizona Cardinals,13.0,New England Patriots,27.0,35788efd-a872-e9cc-3bec-334c94a7d23c
+2022,15,12/15/2022,17:15,-8,Seattle,Seattle Seahawks,13.0,San Francisco 49ers,21.0,cbe2e8fb-4366-588f-cb2d-c678a530658b
+2022,15,12/17/2022,12:00,-6,Minneapolis,Minnesota Vikings,39.0,Indianapolis Colts,36.0,b334757c-b7c2-00aa-73b7-381c661b2876
+2022,15,12/18/2022,13:00,-5,Jacksonville,Jacksonville Jaguars,40.0,Dallas Cowboys,34.0,7de7e90a-621a-17a0-a251-73e92362ce7a
+2022,15,12/17/2022,20:15,-5,Orchard Park,Buffalo Bills,32.0,Miami Dolphins,29.0,96a5cee9-f172-be7b-0cab-8bf60938e30e
+2022,15,12/18/2022,12:00,-6,Chicago,Chicago Bears,20.0,Philadelphia Eagles,25.0,6db38578-df9f-9ff0-7e41-2acccbba3b5c
+2022,15,12/18/2022,12:00,-6,New Orleans,New Orleans Saints,21.0,Atlanta Falcons,18.0,ae92f28a-dcb7-1a46-9963-31c10c00e731
+2022,15,12/18/2022,13:00,-5,East Rutherford,New York Jets,17.0,Detroit Lions,20.0,24cb7867-1bd4-047a-515a-064ba57df9b5
+2022,15,12/18/2022,13:00,-5,Charlotte,Carolina Panthers,16.0,Pittsburgh Steelers,24.0,9d3fc0db-fa64-ef84-56aa-e4a6f055f13e
+2022,15,12/18/2022,14:05,-7,Denver,Denver Broncos,24.0,Arizona Cardinals,15.0,0603316d-ec5f-1a18-44e3-e5f81a15d03c
+2022,15,12/18/2022,16:25,-5,Tampa Bay,Tampa Bay Buccaneers,23.0,Cincinnati Bengals,34.0,cb9dbb09-5e2d-3633-874c-f21efbc52839
+2022,15,12/18/2022,13:25,-8,Inglewood,Los Angeles Chargers,17.0,Tennessee Titans,14.0,a99df7e2-abc7-a146-c305-d1e110354398
+2022,15,12/18/2022,13:05,-8,Las Vegas,Las Vegas Raiders,30.0,New England Patriots,24.0,083c0d1f-0ab8-33d4-ebe6-0f372761fb03
+2022,15,12/19/2022,19:15,-6,Green Bay,Green Bay Packers,24.0,Los Angeles Rams,12.0,834094b8-f4e7-c916-d1a9-b7ee95e4b573
+2022,16,12/22/2022,20:15,-5,East Rutherford,New York Jets,3.0,Jacksonville Jaguars,19.0,70c7994d-b011-77f4-2dd5-5f9f8d9df8be
+2022,16,12/24/2022,15:25,-6,Arlington,Dallas Cowboys,40.0,Philadelphia Eagles,34.0,7c681c97-4a56-dae8-0f93-1155caf95b48
+2022,16,12/24/2022,20:15,-5,Pittsburgh,Pittsburgh Steelers,13.0,Las Vegas Raiders,10.0,ba5e377e-65b4-81a6-d006-c6109329e918
+2022,16,12/24/2022,13:00,-5,Foxborough,New England Patriots,18.0,Cincinnati Bengals,22.0,41207184-e264-da70-21cb-443c290ccb23
+2022,16,12/24/2022,12:00,-6,Chicago,Chicago Bears,13.0,Buffalo Bills,35.0,2ffdf859-f5b9-60f0-2637-2ce757557704
+2022,16,12/24/2022,13:00,-5,Baltimore,Baltimore Ravens,17.0,Atlanta Falcons,9.0,a8c66308-b8ba-e17b-548b-3b383fc9eb52
+2022,16,12/24/2022,12:00,-6,Minneapolis,Minnesota Vikings,27.0,New York Giants,24.0,529d7c27-bef7-2c43-34f4-ec8bf5d5f973
+2022,17,1/1/2023,12:00,-6,Houston,Houston Texans,3.0,Jacksonville Jaguars,31.0,66f64324-3769-75b2-00dc-ea9b8d8d2131
+2022,16,12/24/2022,13:00,-5,Charlotte,Carolina Panthers,37.0,Detroit Lions,23.0,031d78f9-7441-7dd6-5e4c-48db5b5c3be1
+2022,16,12/25/2022,13:00,-5,Miami Gardens,Miami Dolphins,20.0,Green Bay Packers,26.0,c6faf238-81e6-8612-7a2a-fb6909293766
+2022,16,12/24/2022,13:00,-5,Cleveland,Cleveland Browns,10.0,New Orleans Saints,17.0,05dd38c4-506e-b0e6-b361-1a71ffc907a1
+2022,16,12/24/2022,12:00,-6,Kansas City,Kansas City Chiefs,24.0,Seattle Seahawks,10.0,69c2d729-1eed-a467-8990-56a7ff306e6a
+2022,16,12/24/2022,12:00,-6,Nashville,Tennessee Titans,14.0,Houston Texans,19.0,a519a170-42b2-1364-2056-dee5fe71b56c
+2022,16,12/24/2022,13:05,-8,Santa Clara,San Francisco 49ers,37.0,Washington Commanders,20.0,df6b66a2-0ef3-cbbf-8510-eb3b316ba309
+2022,16,12/25/2022,13:30,-8,Inglewood,Los Angeles Rams,51.0,Denver Broncos,14.0,b4bc1d1e-c7d5-2fbc-ea94-0f06e7bf0702
+2022,16,12/25/2022,18:20,-7,Glendale,Arizona Cardinals,16.0,Tampa Bay Buccaneers,19.0,b609c751-16f0-6678-5129-d3cde0f90ca5
+2022,16,12/26/2022,20:15,-5,Indianapolis,Indianapolis Colts,3.0,Los Angeles Chargers,20.0,cd331d16-b24d-594c-3a3a-d9c5e7806738
+2022,17,1/1/2023,13:00,-5,Detroit,Detroit Lions,41.0,Chicago Bears,10.0,00a2c237-9a60-2726-1652-c3ba5353d7d0
+2022,17,1/1/2023,12:00,-6,Kansas City,Kansas City Chiefs,27.0,Denver Broncos,24.0,13664f6d-fb53-86f5-2783-1543c0792cba
+2022,17,1/1/2023,13:00,-5,Landover,Washington Commanders,10.0,Cleveland Browns,24.0,ff0e54d0-aa7f-5a78-3db1-11d2237086a3
+2022,17,1/1/2023,13:00,-5,Atlanta,Atlanta Falcons,20.0,Arizona Cardinals,19.0,3949991f-3b0a-3541-b67a-72f21d527730
+2022,17,1/1/2023,13:00,-5,East Rutherford,New York Giants,38.0,Indianapolis Colts,10.0,064e29db-26e7-b766-e22c-44d8133b46d8
+2022,17,1/1/2023,13:00,-5,Foxborough,New England Patriots,23.0,Miami Dolphins,21.0,5bf58472-a32d-eb6e-0c86-a6c20515358b
+2022,10,11/13/2022,12:00,-6,Chicago,Chicago Bears,30.0,Detroit Lions,31.0,d8c21221-4cf0-09a4-a070-f1589e1d33d4
+2022,17,1/1/2023,13:00,-5,Tampa Bay,Tampa Bay Buccaneers,30.0,Carolina Panthers,24.0,468d3864-262f-2ee0-c3a7-7d7ab2001320
+2022,17,1/1/2023,13:00,-5,Philadelphia,Philadelphia Eagles,10.0,New Orleans Saints,20.0,3ecf4ac4-cdf0-59b7-6f30-d7c1afea9e9d
+2022,17,1/1/2023,20:20,-5,Baltimore,Baltimore Ravens,13.0,Pittsburgh Steelers,16.0,7aaa39c5-21c6-31b1-ecc0-089e37474284
+2022,17,1/1/2023,13:05,-8,Las Vegas,Las Vegas Raiders,34.0,San Francisco 49ers,37.0,6194052b-51b7-8a02-b5bc-d088d26d74db
+2022,17,1/1/2023,13:05,-8,Seattle,Seattle Seahawks,23.0,New York Jets,6.0,e783aa5e-1a64-747f-c2b3-b797d34f4f34
+2022,17,1/1/2023,15:25,-6,Green Bay,Green Bay Packers,41.0,Minnesota Vikings,17.0,7b22771a-eb41-05ee-ae8e-98f23a5761b2
+2022,17,1/1/2023,13:25,-8,Inglewood,Los Angeles Chargers,31.0,Los Angeles Rams,10.0,a211bf6f-49d5-1048-006a-171d31baa150
+2022,17,1/2/2023,20:30,-5,Cincinnati,Cincinnati Bengals,,Buffalo Bills,,52f10f89-2c71-376e-14bd-b52ef6a4d513
+2022,18,1/8/2023,13:00,-5,Pittsburgh,Pittsburgh Steelers,28.0,Cleveland Browns,14.0,d45b48dc-f574-7985-4d13-5ca3ab1137ea
+2022,18,1/8/2023,13:00,-5,Atlanta,Atlanta Falcons,30.0,Tampa Bay Buccaneers,17.0,288a96b0-f701-c6d7-cf09-2982c84ad6dd
+2022,18,1/8/2023,13:25,-8,Santa Clara,San Francisco 49ers,38.0,Arizona Cardinals,13.0,273fc051-beff-b0a2-7e72-3a783cca533a
+2022,18,1/8/2023,14:25,-7,Denver,Denver Broncos,31.0,Los Angeles Chargers,28.0,44b4882f-1d09-fb9f-04e2-5d38c4000feb
+2022,18,1/7/2023,13:30,-8,Las Vegas,Las Vegas Raiders,13.0,Kansas City Chiefs,31.0,048e28ec-321a-1750-c7c4-2cf2dee0a934
+2022,18,1/8/2023,16:25,-5,Landover,Washington Commanders,26.0,Dallas Cowboys,6.0,37ef01f3-bfac-4568-ccc0-38aae83e83fa
+2022,18,1/8/2023,16:25,-5,Philadelphia,Philadelphia Eagles,22.0,New York Giants,16.0,045eda52-f6b7-1c4a-62e4-85f95650697c
+2022,18,1/7/2023,20:15,-5,Jacksonville,Jacksonville Jaguars,20.0,Tennessee Titans,16.0,83c11f5e-8e94-eaeb-8e0e-a3d94d389556
+2022,18,1/8/2023,13:00,-5,Miami Gardens,Miami Dolphins,11.0,New York Jets,6.0,69e0e5b5-813a-0e6e-87aa-9739ddfcc0be
+2022,18,1/8/2023,12:00,-6,New Orleans,New Orleans Saints,7.0,Carolina Panthers,10.0,842d149f-f176-1a49-f03d-59fb2da1e259
+2022,18,1/8/2023,13:00,-5,Orchard Park,Buffalo Bills,35.0,New England Patriots,23.0,d1e38dcc-a7f9-5880-32ab-0b160f8987f4
+2022,18,1/8/2023,13:25,-8,Seattle,Seattle Seahawks,19.0,Los Angeles Rams,16.0,f9865466-7418-d576-2236-b29ef3ea758d
+2022,18,1/8/2023,13:00,-5,Cincinnati,Cincinnati Bengals,27.0,Baltimore Ravens,16.0,fee4afe8-2efa-c386-6303-6eea5671ade3
+2022,18,1/8/2023,13:00,-5,Indianapolis,Indianapolis Colts,31.0,Houston Texans,32.0,4c26ff89-287e-d4cb-2360-9eb63b1a7cf7
+2022,18,1/8/2023,12:00,-6,Chicago,Chicago Bears,13.0,Minnesota Vikings,29.0,e10bd7dc-7e2f-b349-4903-62914ab494f1
+2022,13,12/1/2022,20:15,-5,Foxborough,New England Patriots,10.0,Buffalo Bills,24.0,e3b4699e-efb8-422a-737e-8f14233d734b
+2022,17,12/29/2022,19:15,-6,Nashville,Tennessee Titans,13.0,Dallas Cowboys,27.0,7585dbad-c5c4-7dcc-60d2-1af5efe2d190
+2022,4,10/2/2022,14:30,0,Tottenham,New Orleans Saints,25.0,Minnesota Vikings,28.0,550ee5f1-e4d6-22e7-eca1-41eceeec390b
+2022,5,10/9/2022,14:30,0,Tottenham,Green Bay Packers,22.0,New York Giants,27.0,910caf12-396b-65c3-96f0-ca92e9dac990
+2022,8,10/30/2022,13:30,-1,Wembley,Jacksonville Jaguars,17.0,Denver Broncos,21.0,e6b9a684-517a-0ea9-b43b-37ff8be703c5
+2022,10,11/13/2022,15:30,1,Munich,Tampa Bay Buccaneers,21.0,Seattle Seahawks,16.0,6beef533-f562-afcb-79ab-9406366e4ceb
+2023,1,9/7/2023,19:20,-6,Kansas City,Kansas City Chiefs,20.0,Detroit Lions,21.0,53c20575-205f-17bc-814f-7feedb3a9d07
+2023,1,9/10/2023,13:00,-5,Atlanta,Atlanta Falcons,24.0,Carolina Panthers,10.0,61df6b94-d9f0-f111-8dcd-2a91ac3d45aa
+2023,1,9/10/2023,13:00,-5,Baltimore,Baltimore Ravens,25.0,Houston Texans,9.0,b176d7c5-2cb3-e53a-3c39-82f873f39830
+2023,1,9/10/2023,13:00,-5,Cleveland,Cleveland Browns,24.0,Cincinnati Bengals,3.0,19708080-c1ff-cc0d-0fa0-ade4dba57b2d
+2023,1,9/10/2023,13:00,-5,Indianapolis,Indianapolis Colts,21.0,Jacksonville Jaguars,31.0,0af78b28-2169-e60a-c5a6-37a9a97492e9
+2023,1,9/10/2023,12:00,-6,Minneapolis,Minnesota Vikings,17.0,Tampa Bay Buccaneers,20.0,1a3f422a-e526-26d1-b932-24462b40e61a
+2023,1,9/10/2023,12:00,-6,New Orleans,New Orleans Saints,16.0,Tennessee Titans,15.0,701bc7f9-f0a7-8aae-f9fa-60152cd154e5
+2023,1,9/10/2023,13:00,-5,Pittsburgh,Pittsburgh Steelers,7.0,San Francisco 49ers,30.0,ccac6578-aec3-9d3d-a6db-32db157f9724
+2023,1,9/10/2023,13:00,-5,Landover,Washington Commanders,20.0,Arizona Cardinals,16.0,1fd0a1c0-152e-b9bd-4677-569e62817ea4
+2023,1,9/10/2023,15:25,-6,Chicago,Chicago Bears,20.0,Green Bay Packers,38.0,791a72b8-7a65-b506-6cf8-e64ae2837308
+2023,1,9/10/2023,14:25,-7,Denver,Denver Broncos,16.0,Las Vegas Raiders,17.0,547f4175-940d-53f5-5193-3e55aebaedca
+2023,1,9/10/2023,13:25,-8,Inglewood,Los Angeles Chargers,34.0,Miami Dolphins,36.0,f2bc0170-7f7e-9f93-a7df-af8316dac3d9
+2023,1,9/10/2023,16:25,-5,Foxborough,New England Patriots,20.0,Philadelphia Eagles,25.0,205f9162-15cd-bcce-9ff2-cb501614ffc4
+2023,1,9/10/2023,13:25,-8,Seattle,Seattle Seahawks,13.0,Los Angeles Rams,30.0,05407028-c346-387e-fa41-6807b4e50215
+2023,1,9/10/2023,20:20,-5,East Rutherford,New York Giants,0.0,Dallas Cowboys,40.0,773ef496-3f29-c431-e1e9-7e537a0574b6
+2023,1,9/11/2023,20:15,-5,East Rutherford,New York Jets,22.0,Buffalo Bills,16.0,149ef992-8a41-bf34-56ff-080e78d32d1b
+2023,2,9/14/2023,20:15,-5,Philadelphia,Philadelphia Eagles,34.0,Minnesota Vikings,28.0,8d822811-e3ef-4f9f-81ae-2dfe90fa097a
+2023,2,9/17/2023,13:00,-5,Atlanta,Atlanta Falcons,25.0,Green Bay Packers,24.0,eb268300-f123-59c8-f897-a7cf1c6a5437
+2023,2,9/17/2023,13:00,-5,Orchard Park,Buffalo Bills,38.0,Las Vegas Raiders,10.0,194983ea-1735-7423-6098-0476d4471590
+2023,2,9/17/2023,13:00,-5,Detroit,Detroit Lions,31.0,Seattle Seahawks,37.0,f568e4a1-c752-bfcc-b9d8-f0395d6fb393
+2023,2,9/17/2023,13:00,-5,Jacksonville,Jacksonville Jaguars,9.0,Kansas City Chiefs,17.0,c16b3496-39a4-c335-c0d9-7cafbaea355b
+2023,2,9/17/2023,12:00,-6,Houston,Houston Texans,20.0,Indianapolis Colts,31.0,2b0da9af-e6ae-cdde-7e0c-33f1f45e7420
+2023,2,9/17/2023,13:00,-5,Tampa Bay,Tampa Bay Buccaneers,27.0,Chicago Bears,17.0,e3e0aeb5-12cc-94ce-f4c3-f4855a1e8f02
+2023,2,9/17/2023,12:00,-6,Nashville,Tennessee Titans,27.0,Los Angeles Chargers,24.0,9c4771e7-e8d2-48f7-597d-82a8d239d64d
+2023,2,9/17/2023,13:00,-5,Cincinnati,Cincinnati Bengals,24.0,Baltimore Ravens,27.0,85039918-90fc-62ba-8fd5-33593850111a
+2023,2,9/17/2023,13:05,-8,Glendale,Arizona Cardinals,28.0,New York Giants,31.0,938043f3-93e2-8aa2-87fb-e81c1e09b3ad
+2023,2,9/17/2023,13:05,-8,Inglewood,Los Angeles Rams,23.0,San Francisco 49ers,30.0,e82ef24f-1902-922f-8ae5-73d041fbe7c1
+2023,2,9/17/2023,15:25,-6,Arlington,Dallas Cowboys,30.0,New York Jets,10.0,f6708cfc-333d-e59a-3a9c-bf37d124bc91
+2023,2,9/17/2023,14:25,-7,Denver,Denver Broncos,33.0,Washington Commanders,35.0,4b4ff572-2aab-094f-9c15-a418d993e82b
+2023,2,9/17/2023,20:20,-5,Foxborough,New England Patriots,17.0,Miami Dolphins,24.0,1b9eeb8f-75b0-4a51-29fd-69232eaa28bb
+2023,2,9/18/2023,19:15,-5,Charlotte,Carolina Panthers,17.0,New Orleans Saints,20.0,c28c58e9-5048-ff3c-19c9-10120a2a18c8
+2023,2,9/18/2023,20:15,-5,Pittsburgh,Pittsburgh Steelers,26.0,Cleveland Browns,22.0,6deed5e0-c552-cccc-9180-e7c835a8ed2c
+2023,3,9/21/2023,17:15,-8,Santa Clara,San Francisco 49ers,30.0,New York Giants,12.0,7c2d1fe9-15d9-f59d-6d6f-bdb0de504bbc
+2023,3,9/24/2023,12:00,-6,Green Bay,Green Bay Packers,18.0,New Orleans Saints,17.0,537168ed-e485-f094-63fc-ace41919ba86
+2023,3,9/24/2023,13:00,-5,Jacksonville,Jacksonville Jaguars,17.0,Houston Texans,37.0,feb6bd6f-6f2c-68d0-585b-25f9c2721637
+2023,3,9/24/2023,13:00,-5,Miami Gardens,Miami Dolphins,70.0,Denver Broncos,20.0,cfae702d-fd32-b9c1-c4fa-87597fd7682e
+2023,3,9/24/2023,12:00,-6,Minneapolis,Minnesota Vikings,24.0,Los Angeles Chargers,28.0,66a21bb2-28b7-c063-332b-44d071dbd675
+2023,3,9/24/2023,13:00,-5,East Rutherford,New York Jets,10.0,New England Patriots,15.0,231d8a1a-2ec5-56ca-1ae6-8cb38db7fd30
+2023,3,9/24/2023,13:00,-5,Landover,Washington Commanders,3.0,Buffalo Bills,37.0,1314b481-a5c0-415c-0947-df630353cefb
+2023,3,9/24/2023,13:00,-5,Baltimore,Baltimore Ravens,19.0,Indianapolis Colts,22.0,8a6bcbeb-6f27-1ba3-719c-1483cc707d74
+2023,3,9/24/2023,13:00,-5,Cleveland,Cleveland Browns,27.0,Tennessee Titans,3.0,013c0be3-6af7-6f28-761b-e8326bc76cf8
+2023,3,9/24/2023,13:00,-5,Detroit,Detroit Lions,20.0,Atlanta Falcons,6.0,289e91d5-8e7e-7146-4914-b33f12c29302
+2023,3,9/24/2023,13:05,-8,Seattle,Seattle Seahawks,37.0,Carolina Panthers,27.0,a0c3c015-e7fd-f4c6-1477-90c88f67b64d
+2023,3,9/24/2023,13:25,-8,Glendale,Arizona Cardinals,28.0,Dallas Cowboys,16.0,572bfa69-2618-37ef-a110-e4b265ed7610
+2023,3,9/24/2023,15:25,-6,Kansas City,Kansas City Chiefs,41.0,Chicago Bears,10.0,c51d6baf-7c66-b141-f1e1-070ceed2f646
+2023,3,9/24/2023,17:20,-8,Las Vegas,Las Vegas Raiders,18.0,Pittsburgh Steelers,23.0,be43bdfd-bcb2-b8e2-3610-2ca27cbcdae4
+2023,3,9/25/2023,19:15,-5,Tampa Bay,Tampa Bay Buccaneers,11.0,Philadelphia Eagles,25.0,0d427017-8d46-27fd-6100-27cfc9b3b145
+2023,3,9/25/2023,20:15,-5,Cincinnati,Cincinnati Bengals,19.0,Los Angeles Rams,16.0,ee62caa7-b1d9-4014-1e8e-8743c27a3579
+2023,4,9/28/2023,19:15,-6,Green Bay,Green Bay Packers,20.0,Detroit Lions,34.0,c1f3371f-762c-2e7d-6990-165526764bb1
+2023,4,10/1/2023,14:30,0,Wembley,Jacksonville Jaguars,23.0,Atlanta Falcons,7.0,0532c08c-4297-ccd0-1946-e00cbb44a1ee
+2023,4,10/1/2023,13:00,-5,Orchard Park,Buffalo Bills,48.0,Miami Dolphins,20.0,7e7333bc-0b26-a2e5-b303-f9323b656883
+2023,4,10/1/2023,13:00,-5,Charlotte,Carolina Panthers,13.0,Minnesota Vikings,21.0,13f98a88-b7d3-0996-5b0b-d1b12c789310
+2023,4,10/1/2023,12:00,-6,Houston,Houston Texans,30.0,Pittsburgh Steelers,6.0,8e8162e9-459d-49e8-e595-5a9ee95aab2b
+2023,4,10/1/2023,12:00,-6,Chicago,Chicago Bears,28.0,Denver Broncos,31.0,1d19b7fa-5dcc-7d70-3935-fab1865c21b1
+2023,4,10/1/2023,13:00,-5,Indianapolis,Indianapolis Colts,23.0,Los Angeles Rams,29.0,eff6e8c2-b2e8-58c1-5660-6070d18ea3a5
+2023,4,10/1/2023,12:00,-6,New Orleans,New Orleans Saints,9.0,Tampa Bay Buccaneers,26.0,add6f689-82ec-0e2f-52a1-0ca95152e6e5
+2023,4,10/1/2023,13:00,-5,Philadelphia,Philadelphia Eagles,34.0,Washington Commanders,31.0,cf6673b3-ffe6-ec5c-b050-363a50cd6ada
+2023,4,10/1/2023,13:00,-5,Cleveland,Cleveland Browns,3.0,Baltimore Ravens,28.0,4e1c78f3-ef87-5a7b-cf34-8a8fd0b861c2
+2023,4,10/1/2023,12:00,-6,Nashville,Tennessee Titans,27.0,Cincinnati Bengals,3.0,a5f86b79-55f4-af36-a044-778e60b523ab
+2023,4,10/1/2023,13:05,-8,Inglewood,Los Angeles Chargers,24.0,Las Vegas Raiders,17.0,72b6be27-d1bd-6bd9-39ab-899a782cf9f4
+2023,4,10/1/2023,15:25,-6,Arlington,Dallas Cowboys,38.0,New England Patriots,3.0,d920fe4b-d2a1-7b0b-b5e9-59b9d0434901
+2023,4,10/1/2023,13:25,-8,Santa Clara,San Francisco 49ers,35.0,Arizona Cardinals,16.0,49ed2cab-183a-ffc9-69eb-202a91f48106
+2023,4,10/1/2023,20:20,-5,East Rutherford,New York Jets,20.0,Kansas City Chiefs,23.0,2a38584f-86c9-05f2-ccf0-cd5eed769a3c
+2023,4,10/2/2023,20:15,-5,East Rutherford,New York Giants,3.0,Seattle Seahawks,24.0,32cc2972-bde9-dac0-3b01-4a42c1a64e91
+2023,5,10/5/2023,20:15,-5,Landover,Washington Commanders,20.0,Chicago Bears,40.0,2dd4f850-d0d7-5a21-ce72-9d6b5db1eb4c
+2023,5,10/8/2023,14:30,0,Tottenham,Buffalo Bills,20.0,Jacksonville Jaguars,25.0,1244ad1c-e41a-1a46-38d4-5eec83df1cc0
+2023,5,10/8/2023,13:00,-5,Detroit,Detroit Lions,42.0,Carolina Panthers,24.0,28e06e5e-7903-ff2a-6f0c-68263dd083c6
+2023,5,10/8/2023,13:00,-5,Miami Gardens,Miami Dolphins,31.0,New York Giants,16.0,1b592545-6588-f6ba-a5b7-af1a6148cecd
+2023,5,10/8/2023,13:00,-5,Pittsburgh,Pittsburgh Steelers,17.0,Baltimore Ravens,10.0,875bd074-5064-f8cd-0388-b420fe8fbc30
+2023,5,10/8/2023,13:00,-5,Atlanta,Atlanta Falcons,21.0,Houston Texans,19.0,32d396db-b321-56d6-5cbf-4dc49c6e86e4
+2023,5,10/8/2023,13:00,-5,Indianapolis,Indianapolis Colts,23.0,Tennessee Titans,16.0,691bfde9-ffad-d1e1-29d4-9391747b206c
+2023,5,10/8/2023,13:00,-5,Foxborough,New England Patriots,0.0,New Orleans Saints,34.0,5aacd215-b0fd-530e-d26a-d08df621a844
+2023,5,10/8/2023,13:05,-8,Inglewood,Los Angeles Rams,14.0,Philadelphia Eagles,23.0,0ce7aa54-86c8-693c-24a6-d17706211233
+2023,5,10/8/2023,13:05,-8,Glendale,Arizona Cardinals,20.0,Cincinnati Bengals,34.0,b38996da-99a0-f08b-1ed2-f7bf7ffcfe93
+2023,5,10/8/2023,14:25,-7,Denver,Denver Broncos,21.0,New York Jets,31.0,adaedae3-b5a8-58ca-bf94-140c33db87fc
+2023,5,10/8/2023,15:25,-6,Minneapolis,Minnesota Vikings,20.0,Kansas City Chiefs,27.0,5c5870c0-2ac2-d65a-63d4-aa3b906d2387
+2023,5,10/8/2023,17:20,-8,Santa Clara,San Francisco 49ers,42.0,Dallas Cowboys,10.0,998039ef-a542-ecf0-26d7-3c140806f540
+2023,5,10/9/2023,17:15,-8,Las Vegas,Las Vegas Raiders,17.0,Green Bay Packers,13.0,4f8d5756-0da2-2c99-2b91-eab2e930d218
+2023,6,10/12/2023,19:15,-6,Kansas City,Kansas City Chiefs,19.0,Denver Broncos,8.0,598b1589-6fce-9595-4227-36a621f2454d
+2023,6,10/15/2023,14:30,0,Tottenham,Tennessee Titans,16.0,Baltimore Ravens,24.0,c0982d47-ae82-94c6-3125-86b01b5c1169
+2023,6,10/15/2023,12:00,-6,Chicago,Chicago Bears,13.0,Minnesota Vikings,19.0,82d22e75-f2e9-0efe-3dc7-4f0a0075d720
+2023,6,10/15/2023,13:00,-5,Cleveland,Cleveland Browns,19.0,San Francisco 49ers,17.0,99eca4e9-4ee9-f1f8-2559-f3035deae8ca
+2023,6,10/15/2023,13:00,-5,Jacksonville,Jacksonville Jaguars,37.0,Indianapolis Colts,20.0,7900ae80-20e4-6540-fad7-4677af8c0342
+2023,6,10/15/2023,13:00,-5,Miami Gardens,Miami Dolphins,42.0,Carolina Panthers,21.0,9a3f3d09-0943-a320-db6c-880af3304bb8
+2023,6,10/15/2023,13:00,-5,Atlanta,Atlanta Falcons,16.0,Washington Commanders,24.0,91adc0e6-b780-9bfd-03fd-dd0f9a7d8fee
+2023,6,10/15/2023,13:00,-5,Cincinnati,Cincinnati Bengals,17.0,Seattle Seahawks,13.0,f1310144-3634-77c8-8de0-ce5dcf92794e
+2023,6,10/15/2023,12:00,-6,Houston,Houston Texans,20.0,New Orleans Saints,13.0,754efc5c-ab07-60e8-f474-4ac4d89af82e
+2023,6,10/15/2023,16:25,-5,Tampa,Tampa Bay Buccaneers,6.0,Detroit Lions,20.0,e3b18a80-646f-f13d-6d8a-f0d91ace5b45
+2023,6,10/15/2023,13:05,-8,Las Vegas,Las Vegas Raiders,21.0,New England Patriots,17.0,48af6490-85b0-30cf-4ac6-7de9c3c5f86d
+2023,6,10/15/2023,16:25,-5,East Rutherford,New York Jets,20.0,Philadelphia Eagles,14.0,2885b398-1dca-9a56-fcfb-f24f793c1f74
+2023,6,10/15/2023,13:25,-8,Inglewood,Los Angeles Rams,26.0,Arizona Cardinals,9.0,58f33312-2b07-5f78-1ab5-42cdcd06ef6b
+2023,6,10/15/2023,20:20,-5,Orchard Park,Buffalo Bills,14.0,New York Giants,9.0,501e9985-a2aa-a197-663b-2be2a6953707
+2023,6,10/16/2023,17:15,-8,Inglewood,Los Angeles Chargers,17.0,Dallas Cowboys,20.0,350ac4fb-b586-efe1-a6a7-1baa36234b1e
+2023,7,10/19/2023,19:15,-6,New Orleans,New Orleans Saints,24.0,Jacksonville Jaguars,31.0,a8c08029-129c-b0bd-36af-af448934d25e
+2023,7,10/22/2023,13:00,-5,Baltimore,Baltimore Ravens,38.0,Detroit Lions,6.0,76c5954f-e20f-4541-cb5a-37c542785e00
+2023,7,10/22/2023,13:00,-5,Foxborough,New England Patriots,29.0,Buffalo Bills,25.0,f079898e-ac64-cb53-1aed-9706658b6d4e
+2023,7,10/22/2023,13:00,-5,East Rutherford,New York Giants,14.0,Washington Commanders,7.0,1fd1ae8b-0de6-d925-82bc-7ce647cf68d4
+2023,7,10/22/2023,12:00,-6,Chicago,Chicago Bears,30.0,Las Vegas Raiders,12.0,990d3244-bea2-78cd-d001-cbbd4997620f
+2023,7,10/22/2023,13:00,-5,Indianapolis,Indianapolis Colts,38.0,Cleveland Browns,39.0,2d6fb4d4-0f14-b388-ee82-19477935b307
+2023,7,10/22/2023,13:00,-5,Tampa Bay,Tampa Bay Buccaneers,13.0,Atlanta Falcons,16.0,5633fe8a-263c-64d7-1e62-33770aa17ea4
+2023,7,10/22/2023,13:05,-8,Seattle,Seattle Seahawks,20.0,Arizona Cardinals,10.0,1ae303c1-2c13-82a1-2f54-06d89ed947b7
+2023,7,10/22/2023,13:05,-8,Inglewood,Los Angeles Rams,17.0,Pittsburgh Steelers,24.0,98b1f2e9-f42d-b1f9-353e-828fdbcb1315
+2023,7,10/22/2023,14:25,-7,Denver,Denver Broncos,19.0,Green Bay Packers,17.0,2e0e6125-794a-981b-4577-8ed249bafb42
+2023,7,10/22/2023,15:25,-6,Kansas City,Kansas City Chiefs,31.0,Los Angeles Chargers,17.0,abd19400-8760-1f5e-6c90-1c48892f03c5
+2023,7,10/22/2023,20:20,-5,Philadelphia,Philadelphia Eagles,31.0,Miami Dolphins,17.0,714416b8-f539-70f3-31c8-9dcaec3e1ec2
+2023,7,10/23/2023,19:15,-6,Minneapolis,Minnesota Vikings,22.0,San Francisco 49ers,17.0,65ca7bae-5009-4f46-0501-ad93187d0cd1
+2023,8,10/26/2023,20:15,-5,Orchard Park,Buffalo Bills,24.0,Tampa Bay Buccaneers,18.0,101f48ee-97cd-c53e-22d1-f79d88981b4f
+2023,8,10/29/2023,13:00,-5,Charlotte,Carolina Panthers,15.0,Houston Texans,13.0,f8b49b0d-f707-997c-41e7-53195e300d82
+2023,8,10/29/2023,12:00,-6,Green Bay,Green Bay Packers,10.0,Minnesota Vikings,24.0,0f69cbd9-05fb-d931-d17b-20a8735b2b2b
+2023,8,10/29/2023,13:00,-5,Miami Gardens,Miami Dolphins,31.0,New England Patriots,17.0,16a2f579-5aaa-17ea-b486-7cb7f12bb8b3
+2023,8,10/29/2023,13:00,-5,East Rutherford,New York Giants,10.0,New York Jets,13.0,f3da80e8-11b5-3547-5564-a6d95c7347bf
+2023,8,10/29/2023,13:00,-5,Pittsburgh,Pittsburgh Steelers,10.0,Jacksonville Jaguars,20.0,73505357-5407-9c8f-7e81-897b2c9d42d8
+2023,8,10/29/2023,13:00,-5,Landover,Washington Commanders,31.0,Philadelphia Eagles,38.0,24bf0cd0-5ebb-8323-d2f6-fe11d4899733
+2023,8,10/29/2023,12:00,-6,Arlington,Dallas Cowboys,43.0,Los Angeles Rams,20.0,09313ac1-7262-f231-3a56-954fd75d8555
+2023,8,10/29/2023,13:00,-5,Indianapolis,Indianapolis Colts,27.0,New Orleans Saints,38.0,c46556f2-f0eb-ec52-b3ee-b65f70e4540e
+2023,8,10/29/2023,12:00,-6,Nashville,Tennessee Titans,28.0,Atlanta Falcons,23.0,16d6c635-ded1-c96d-5e25-934f499acd19
+2023,8,10/29/2023,13:05,-8,Seattle,Seattle Seahawks,24.0,Cleveland Browns,20.0,af7fea0a-4644-2bc5-080d-4b350e5c0091
+2023,8,10/29/2023,13:25,-8,Glendale,Arizona Cardinals,24.0,Baltimore Ravens,31.0,f8d844ed-b6d9-1b98-10f8-70397d23f159
+2023,8,10/29/2023,14:25,-7,Denver,Denver Broncos,24.0,Kansas City Chiefs,9.0,035be3e3-5707-58f0-0014-7456bd46d8ff
+2023,8,10/29/2023,13:25,-8,Santa Clara,San Francisco 49ers,17.0,Cincinnati Bengals,31.0,b2f361b2-064c-3bde-8863-75ae8c343b38
+2023,8,10/29/2023,17:20,-8,Inglewood,Los Angeles Chargers,30.0,Chicago Bears,13.0,5c9edad8-759d-bad8-2d6c-a06445b9c3e5
+2023,8,10/30/2023,20:15,-5,Detroit,Detroit Lions,26.0,Las Vegas Raiders,14.0,06d4f952-5968-c625-662a-c43c67b7b6ef
+2023,9,11/2/2023,20:15,-5,Pittsburgh,Pittsburgh Steelers,20.0,Tennessee Titans,16.0,b2bf075c-266d-5eb5-8b01-f979d0e61b46
+2023,9,11/5/2023,15:30,1,Frankfurt,Kansas City Chiefs,21.0,Miami Dolphins,14.0,0582bff8-a1e1-d47f-41da-14042fd7cc32
+2023,9,11/5/2023,13:00,-5,Atlanta,Atlanta Falcons,28.0,Minnesota Vikings,31.0,6f5ae1f7-28b0-7d53-0d56-04a1b9cef36b
+2023,9,11/5/2023,13:00,-5,Baltimore,Baltimore Ravens,37.0,Seattle Seahawks,3.0,89587b5b-22fe-7a0a-49e4-24dd98ef3c33
+2023,9,11/5/2023,12:00,-6,Houston,Houston Texans,39.0,Tampa Bay Buccaneers,37.0,ec3293db-8758-cf4c-89e5-e90f818b780f
+2023,9,11/5/2023,13:00,-5,Foxborough,New England Patriots,17.0,Washington Commanders,20.0,e46ed5c9-25d6-45e5-b8d3-73f3fd401ab4
+2023,9,11/5/2023,12:00,-6,New Orleans,New Orleans Saints,24.0,Chicago Bears,17.0,3dcd83a1-fc80-bd3d-25b5-5f6ea60b5471
+2023,9,11/5/2023,13:00,-5,Cleveland,Cleveland Browns,27.0,Arizona Cardinals,0.0,ffcaca1d-4609-c253-cd18-a8fad868a5af
+2023,9,11/5/2023,12:00,-6,Green Bay,Green Bay Packers,20.0,Los Angeles Rams,3.0,66a8d0b8-e3c3-ecb4-7313-91983c845171
+2023,9,11/5/2023,16:05,-5,Charlotte,Carolina Panthers,13.0,Indianapolis Colts,27.0,5b33ff37-ee7a-515d-fd80-7485d3ddef10
+2023,9,11/5/2023,13:25,-8,Las Vegas,Las Vegas Raiders,30.0,New York Giants,6.0,dd885a5c-4082-8985-65b4-8d5160cf51f9
+2023,9,11/5/2023,16:25,-5,Philadelphia,Philadelphia Eagles,28.0,Dallas Cowboys,23.0,3e3e7fad-7e52-eb75-b843-4e6f6958e6f0
+2023,9,11/5/2023,20:20,-5,Cincinnati,Cincinnati Bengals,24.0,Buffalo Bills,18.0,d4ea88f5-2e4f-eeb6-9627-332f09a7b6de
+2023,9,11/6/2023,20:15,-5,East Rutherford,New York Jets,6.0,Los Angeles Chargers,27.0,d2f5764e-9416-06c0-7509-a482ade60e8f
+2023,10,11/9/2023,19:15,-6,Chicago,Chicago Bears,16.0,Carolina Panthers,13.0,6d013e85-efc0-c7fc-acad-6b7ba4b1185a
+2023,10,11/12/2023,15:30,1,Frankfurt,New England Patriots,6.0,Indianapolis Colts,10.0,b4b5277d-e6a7-8144-77e1-6f453ad9c1a9
+2023,10,11/12/2023,13:00,-5,Baltimore,Baltimore Ravens,31.0,Cleveland Browns,33.0,4ca881a3-72e3-4bcd-fd5d-c3a7519b4550
+2023,10,11/12/2023,12:00,-6,Minneapolis,Minnesota Vikings,27.0,New Orleans Saints,19.0,31a934ce-628a-8e7e-de6e-42bd1aa50e07
+2023,10,11/12/2023,13:00,-5,Pittsburgh,Pittsburgh Steelers,23.0,Green Bay Packers,19.0,7d2c7bb1-9f3a-39a3-28a7-eded9b5c6f13
+2023,10,11/12/2023,13:00,-5,Cincinnati,Cincinnati Bengals,27.0,Houston Texans,30.0,4a57f896-ab12-1579-fb6c-ff2cdc3322c4
+2023,10,11/12/2023,13:00,-5,Jacksonville,Jacksonville Jaguars,3.0,San Francisco 49ers,34.0,e4aeb746-a598-2729-6c27-f2373bf6a562
+2023,10,11/12/2023,13:00,-5,Tampa Bay,Tampa Bay Buccaneers,20.0,Tennessee Titans,6.0,d857fddb-92eb-6cfe-258e-1501630364f4
+2023,10,11/12/2023,14:05,-7,Glendale,Arizona Cardinals,25.0,Atlanta Falcons,23.0,5af2f6c8-4c65-681f-2ad8-8c3e0d36ae6d
+2023,10,11/12/2023,13:05,-8,Inglewood,Los Angeles Chargers,38.0,Detroit Lions,41.0,dd279ae5-15f4-4599-af59-d1320e3630ed
+2023,10,11/12/2023,15:25,-6,Arlington,Dallas Cowboys,49.0,New York Giants,17.0,20da27b3-3214-b791-01cf-2357be28e628
+2023,10,11/12/2023,13:25,-8,Seattle,Seattle Seahawks,29.0,Washington Commanders,26.0,41488438-a4e6-f5f6-d5c2-43ba385c9e4a
+2023,10,11/12/2023,17:20,-8,Las Vegas,Las Vegas Raiders,16.0,New York Jets,12.0,efdf968e-74a4-9ec4-5ac4-97406e35803e
+2023,10,11/13/2023,20:15,-5,Orchard Park,Buffalo Bills,22.0,Denver Broncos,24.0,58bc0c7d-d2f2-9813-2f2a-eb0c2d7e1eb8
+2023,11,11/16/2023,20:15,-5,Baltimore,Baltimore Ravens,34.0,Cincinnati Bengals,20.0,ebb62d10-bf71-f653-c618-31728a2adf53
+2023,11,11/19/2023,13:00,-5,Charlotte,Carolina Panthers,10.0,Dallas Cowboys,33.0,695bb6ae-35b5-05dc-63c1-149d657af626
+2023,11,11/19/2023,13:00,-5,Cleveland,Cleveland Browns,13.0,Pittsburgh Steelers,10.0,6624462b-ab23-f415-616f-50ad7048d4e6
+2023,11,11/19/2023,13:00,-5,Detroit,Detroit Lions,31.0,Chicago Bears,26.0,eca856bb-60e8-c067-ccf0-5c194a55765c
+2023,11,11/19/2023,12:00,-6,Green Bay,Green Bay Packers,23.0,Los Angeles Chargers,20.0,93922c06-5a81-faa5-dcaa-df0a6f4a8d00
+2023,11,11/19/2023,13:00,-5,Miami Gardens,Miami Dolphins,20.0,Las Vegas Raiders,13.0,3f962cb4-02c4-be1e-72a3-68186f7e82d9
+2023,11,11/19/2023,13:00,-5,Landover,Washington Commanders,19.0,New York Giants,31.0,154cc2f1-ea35-6e9b-a382-eb7ff5ffb002
+2023,11,11/19/2023,12:00,-6,Houston,Houston Texans,21.0,Arizona Cardinals,16.0,02103017-ef6e-a834-445b-fa5e819634aa
+2023,11,11/19/2023,13:00,-5,Jacksonville,Jacksonville Jaguars,34.0,Tennessee Titans,14.0,1d621cdb-2d63-430c-1c3a-c5cc07852cca
+2023,11,11/19/2023,16:25,-5,Orchard Park,Buffalo Bills,32.0,New York Jets,6.0,8d255cd4-c651-b690-3d95-9c0b60fe8709
+2023,11,11/19/2023,13:25,-8,Inglewood,Los Angeles Rams,17.0,Seattle Seahawks,16.0,255e3ad0-d413-710d-f3a3-10f871c69030
+2023,11,11/19/2023,13:05,-8,Santa Clara,San Francisco 49ers,27.0,Tampa Bay Buccaneers,14.0,0a88d4ea-684e-1a3e-d7c0-352c3eaba627
+2023,11,11/19/2023,18:20,-7,Denver,Denver Broncos,21.0,Minnesota Vikings,20.0,73ec863a-6a6b-7b62-600f-fa961edfccea
+2023,11,11/20/2023,19:15,-6,Kansas City,Kansas City Chiefs,17.0,Philadelphia Eagles,21.0,67c9aa91-f5d1-05cd-a23c-5ffeae2ae816
+2023,12,11/23/2023,12:30,-5,Detroit,Detroit Lions,22.0,Green Bay Packers,29.0,f3702ace-f39f-fd7e-71fb-c4b1c10c36c1
+2023,12,11/23/2023,15:30,-6,Arlington,Dallas Cowboys,45.0,Washington Commanders,10.0,5285dacd-e3df-955d-e419-3f57a50ff602
+2023,12,11/23/2023,17:20,-8,Seattle,Seattle Seahawks,13.0,San Francisco 49ers,31.0,269c5132-6e01-0716-ec35-3b49acdd6e01
+2023,12,11/24/2023,15:00,-5,East Rutherford,New York Jets,13.0,Miami Dolphins,34.0,18b100e4-fbc0-3232-c701-a832c9f37644
+2023,12,11/26/2023,13:00,-5,Atlanta,Atlanta Falcons,24.0,New Orleans Saints,15.0,b0a2a02e-d942-a1ed-0a21-62ca8f543ea6
+2023,12,11/26/2023,13:00,-5,Cincinnati,Cincinnati Bengals,10.0,Pittsburgh Steelers,16.0,2463b7a8-6d2d-baf7-347e-f663d7617758
+2023,12,11/26/2023,13:00,-5,East Rutherford,New York Giants,10.0,New England Patriots,7.0,0e0fafb1-0e54-2b9b-3f9f-496673210661
+2023,12,11/26/2023,12:00,-6,Nashville,Tennessee Titans,17.0,Carolina Panthers,10.0,3b017f31-8306-693e-cca9-8ece779e3d86
+2023,12,11/26/2023,12:00,-6,Houston,Houston Texans,21.0,Jacksonville Jaguars,24.0,febc29c6-4900-779c-0b9e-a7fdeb391ea6
+2023,12,11/26/2023,13:00,-5,Indianapolis,Indianapolis Colts,27.0,Tampa Bay Buccaneers,20.0,7cde9fac-d37f-4e7b-b293-2df7ed3386d2
+2023,12,11/26/2023,14:05,-7,Glendale,Arizona Cardinals,14.0,Los Angeles Rams,37.0,96f93011-c20d-a05e-5c62-3854413b6679
+2023,12,11/26/2023,14:05,-7,Denver,Denver Broncos,29.0,Cleveland Browns,12.0,69746684-58a1-a5b0-7f1e-21eeed49e0d8
+2023,12,11/26/2023,13:25,-8,Las Vegas,Las Vegas Raiders,17.0,Kansas City Chiefs,31.0,00178489-837a-1aa7-7068-7c0eda5001da
+2023,12,11/26/2023,16:25,-5,Philadelphia,Philadelphia Eagles,37.0,Buffalo Bills,34.0,3949286a-fd5c-0768-08b9-7542f7bed7c8
+2023,12,11/26/2023,17:20,-8,Inglewood,Los Angeles Chargers,10.0,Baltimore Ravens,20.0,cb4047eb-0a19-8d87-d683-46f3c3422b32
+2023,12,11/27/2023,19:15,-6,Minneapolis,Minnesota Vikings,10.0,Chicago Bears,12.0,184395f1-bfa7-7fc6-dca1-28be19aa9e98
+2023,13,11/30/2023,19:15,-6,Arlington,Dallas Cowboys,41.0,Seattle Seahawks,35.0,4e9c991c-1e3e-aa34-d884-fd306f3591a6
+2023,13,12/3/2023,12:00,-6,New Orleans,New Orleans Saints,28.0,Detroit Lions,33.0,7ad53cc3-5307-3b03-10b2-124c77fde35d
+2023,13,12/3/2023,13:00,-5,East Rutherford,New York Jets,8.0,Atlanta Falcons,13.0,116f9daa-1cc3-d96a-3c40-85c2fbf944d8
+2023,13,12/3/2023,13:00,-5,Pittsburgh,Pittsburgh Steelers,10.0,Arizona Cardinals,24.0,03522790-38f9-ecd7-4364-f99be2ee8fb1
+2023,13,12/3/2023,16:05,-5,Tampa,Tampa Bay Buccaneers,21.0,Carolina Panthers,18.0,0470d267-12b2-f498-89ac-522fa3325f56
+2023,13,12/3/2023,13:00,-5,Foxborough,New England Patriots,0.0,Los Angeles Chargers,6.0,56e29b9a-1288-a67d-e108-0e4904290fad
+2023,13,12/3/2023,12:00,-6,Nashville,Tennessee Titans,28.0,Indianapolis Colts,31.0,8e7df3d3-a1e0-596b-4400-2719744308cf
+2023,13,12/3/2023,13:00,-5,Landover,Washington Commanders,15.0,Miami Dolphins,45.0,e8bd0c93-89cd-2a0f-2bd1-327bb0ebe42b
+2023,13,12/3/2023,12:00,-6,Houston,Houston Texans,22.0,Denver Broncos,17.0,31c01395-3a87-366c-6af0-6bfcf9a93fc9
+2023,13,12/3/2023,16:25,-5,Philadelphia,Philadelphia Eagles,19.0,San Francisco 49ers,42.0,43fd9fdf-ac90-45a3-0dae-484278cb18ad
+2023,13,12/3/2023,13:25,-8,Inglewood,Los Angeles Rams,36.0,Cleveland Browns,19.0,cf74851e-0d6f-e723-3aed-62546207f45a
+2023,13,12/3/2023,19:20,-6,Green Bay,Green Bay Packers,27.0,Kansas City Chiefs,19.0,19c1ec4d-43fe-9440-8934-98f46d66ebd4
+2023,13,12/4/2023,20:15,-5,Jacksonville,Jacksonville Jaguars,31.0,Cincinnati Bengals,34.0,6d4612b8-c5b0-760b-747a-1e784a940b8c
+2023,14,12/7/2023,20:15,-5,Pittsburgh,Pittsburgh Steelers,18.0,New England Patriots,21.0,09be553c-bbe8-4dd6-63ca-14fba56fa1d8
+2023,14,12/10/2023,13:00,-5,Baltimore,Baltimore Ravens,37.0,Los Angeles Rams,31.0,5e2634d7-9390-464e-192b-39e298c136ca
+2023,14,12/10/2023,12:00,-6,Chicago,Chicago Bears,28.0,Detroit Lions,13.0,b3cac2d3-4c45-7aa4-474a-0b1769fe6e41
+2023,14,12/10/2023,12:00,-6,New Orleans,New Orleans Saints,28.0,Carolina Panthers,6.0,df82c3f8-8b43-71c0-e5b9-17aaac081b88
+2023,14,12/10/2023,13:00,-5,East Rutherford,New York Jets,30.0,Houston Texans,6.0,239b392c-dbf6-2ddd-7e9e-8ea7ff6615bc
+2023,14,12/10/2023,13:00,-5,Atlanta,Atlanta Falcons,25.0,Tampa Bay Buccaneers,29.0,11055d1f-42c9-809a-4dcd-be4b8f72b456
+2023,14,12/10/2023,13:00,-5,Cincinnati,Cincinnati Bengals,34.0,Indianapolis Colts,14.0,94664cec-161a-9201-d4c3-a9420ffa12b2
+2023,14,12/10/2023,13:00,-5,Cleveland,Cleveland Browns,31.0,Jacksonville Jaguars,27.0,57371fc7-e94c-aaab-6fa3-db3f871719b4
+2023,14,12/10/2023,13:05,-8,Las Vegas,Las Vegas Raiders,0.0,Minnesota Vikings,3.0,e2bcdf13-df29-6b92-5546-0e1defae24ad
+2023,14,12/10/2023,13:05,-8,Santa Clara,San Francisco 49ers,28.0,Seattle Seahawks,16.0,eeef3486-4276-3393-c39e-d7608665cff2
+2023,14,12/10/2023,15:25,-6,Kansas City,Kansas City Chiefs,17.0,Buffalo Bills,20.0,f498e56a-7a47-5d63-f0a8-8b4e8330932c
+2023,14,12/10/2023,13:25,-8,Inglewood,Los Angeles Chargers,7.0,Denver Broncos,24.0,f9cdf218-6a6f-fdb6-26a9-4d796a4d39d7
+2023,14,12/10/2023,19:20,-6,Arlington,Dallas Cowboys,33.0,Philadelphia Eagles,13.0,1d20220b-b2a8-bbe8-9bb6-07ad06d3504e
+2023,14,12/11/2023,20:15,-5,Miami Gardens,Miami Dolphins,27.0,Tennessee Titans,28.0,9f866c3e-513b-ec61-f9ca-b6be0ed140ea
+2023,14,12/11/2023,20:15,-5,East Rutherford,New York Giants,24.0,Green Bay Packers,22.0,6dea8587-9b7c-dbbc-ceab-c627cbda93ea
+2023,15,12/14/2023,17:15,-8,Las Vegas,Las Vegas Raiders,63.0,Los Angeles Chargers,21.0,9e931243-667d-7f06-b160-7c8c3d07842f
+2023,15,12/16/2023,13:00,-5,Cincinnati,Cincinnati Bengals,27.0,Minnesota Vikings,24.0,61e40794-5b0d-3fc0-f8d6-32cd70a20210
+2023,15,12/17/2023,13:00,-5,Cleveland,Cleveland Browns,20.0,Chicago Bears,17.0,66110a66-705e-4509-4486-01ff8deed5aa
+2023,15,12/16/2023,20:15,-5,Detroit,Detroit Lions,42.0,Denver Broncos,17.0,200c6df7-3a15-ca60-ef2c-08b5f4d550c0
+2023,15,12/17/2023,12:00,-6,Green Bay,Green Bay Packers,20.0,Tampa Bay Buccaneers,34.0,c7b31e8d-06f2-93c0-66cf-f6eb3d1a56e8
+2023,15,12/16/2023,16:30,-5,Indianapolis,Indianapolis Colts,30.0,Pittsburgh Steelers,13.0,92c8cc7f-0315-8c61-3eb8-969dc3e1575f
+2023,15,12/17/2023,13:00,-5,Miami Gardens,Miami Dolphins,30.0,New York Jets,0.0,766436f2-511d-1421-a792-1205d63dfb74
+2023,15,12/17/2023,12:00,-6,New Orleans,New Orleans Saints,24.0,New York Giants,6.0,12885cdd-4a64-3c85-8008-eab1773788ae
+2023,15,12/17/2023,12:00,-6,Nashville,Tennessee Titans,16.0,Houston Texans,19.0,9d9d8e34-7708-85c5-c09e-c9f066c8b957
+2023,15,12/17/2023,13:00,-5,Charlotte,Carolina Panthers,9.0,Atlanta Falcons,7.0,dc0cf721-1196-f99d-6325-ab3e69d1dd55
+2023,15,12/17/2023,13:05,-8,Inglewood,Los Angeles Rams,28.0,Washington Commanders,20.0,2b0ffe04-c7ea-f2c9-79ab-9bc93e52e2b8
+2023,15,12/17/2023,14:05,-7,Glendale,Arizona Cardinals,29.0,San Francisco 49ers,45.0,5ee9cb01-2179-e5ff-be1a-252cfabc9080
+2023,15,12/18/2023,17:15,-8,Seattle,Seattle Seahawks,20.0,Philadelphia Eagles,17.0,767edfca-a74b-802b-eced-82cad4f37642
+2023,15,12/17/2023,16:25,-5,Orchard Park,Buffalo Bills,31.0,Dallas Cowboys,10.0,1ca6dead-a330-fd8f-fe22-91ddc9ca19a1
+2023,15,12/17/2023,20:20,-5,Jacksonville,Jacksonville Jaguars,7.0,Baltimore Ravens,23.0,2e49b628-22e3-d935-5869-c4120b8544b5
+2023,15,12/17/2023,13:00,-5,Foxborough,New England Patriots,17.0,Kansas City Chiefs,27.0,97714a79-1d04-d82a-b52d-ecd1f3f4d7e4
+2023,16,12/21/2023,17:15,-8,Inglewood,Los Angeles Rams,30.0,New Orleans Saints,22.0,3ab13153-3152-64cc-e76b-6f887fa0fa62
+2023,16,12/23/2023,16:30,-5,Pittsburgh,Pittsburgh Steelers,34.0,Cincinnati Bengals,11.0,505ca458-de5a-ea71-594d-149a6805dd86
+2023,16,12/23/2023,17:00,-8,Inglewood,Los Angeles Chargers,22.0,Buffalo Bills,24.0,8965fe9b-1cb8-6c4c-c15d-4f75b8239cbc
+2023,16,12/24/2023,13:00,-5,Charlotte,Carolina Panthers,30.0,Green Bay Packers,33.0,c5266ed3-21fb-f302-f8b8-99eccfddab9a
+2023,16,12/24/2023,12:00,-6,Minneapolis,Minnesota Vikings,24.0,Detroit Lions,30.0,85e0c065-51c9-cff5-5d29-8c30e928c715
+2023,16,12/24/2023,13:00,-5,East Rutherford,New York Jets,30.0,Washington Commanders,28.0,f4a009e2-e721-8705-5f55-eb86353c583a
+2023,16,12/24/2023,12:00,-6,Nashville,Tennessee Titans,17.0,Seattle Seahawks,20.0,e8461c10-d309-3129-1eab-18539da9597a
+2023,16,12/24/2023,13:00,-5,Atlanta,Atlanta Falcons,29.0,Indianapolis Colts,10.0,b775c257-94e6-a414-8dc5-44622deca671
+2023,16,12/24/2023,12:00,-6,Houston,Houston Texans,22.0,Cleveland Browns,36.0,af0d727e-fa7e-2dce-be4a-da4daeb2663f
+2023,16,12/24/2023,16:05,-5,Tampa Bay,Tampa Bay Buccaneers,30.0,Jacksonville Jaguars,12.0,23c4eee7-8e88-697e-95e6-a00e3f0dd8d6
+2023,16,12/24/2023,15:25,-6,Chicago,Chicago Bears,27.0,Arizona Cardinals,16.0,1cbd9d6a-923e-32c8-d223-22332af58533
+2023,16,12/24/2023,16:25,-5,Miami Gardens,Miami Dolphins,22.0,Dallas Cowboys,20.0,98617120-b3e4-7696-fdd4-99a1eedb295f
+2023,16,12/24/2023,18:15,-7,Denver,Denver Broncos,23.0,New England Patriots,26.0,6265a730-0285-5243-cb77-6532c75113e9
+2023,16,12/25/2023,12:00,-6,Kansas City,Kansas City Chiefs,14.0,Las Vegas Raiders,20.0,eff17757-daea-5b20-a748-77d4d5858650
+2023,16,12/25/2023,16:30,-5,Philadelphia,Philadelphia Eagles,33.0,New York Giants,25.0,8054293f-7c98-2385-50b1-b8d95833c4ad
+2023,16,12/25/2023,17:15,-8,Santa Clara,San Francisco 49ers,19.0,Baltimore Ravens,33.0,f714a3c2-3736-4123-e629-5857f218fb92
+2023,17,12/28/2023,20:15,-5,Cleveland,Cleveland Browns,37.0,New York Jets,20.0,2672650d-a7d7-6e94-8a0c-fe8a97e18090
+2023,17,12/30/2023,19:15,-6,Arlington,Dallas Cowboys,20.0,Detroit Lions,19.0,a7b16823-321e-d988-550a-e43ee2bcab32
+2023,17,12/31/2023,13:00,-5,Orchard Park,Buffalo Bills,27.0,New England Patriots,21.0,ef8fd23b-9049-c9f3-59b5-31a8d3316c7f
+2023,17,12/31/2023,13:00,-5,Jacksonville,Jacksonville Jaguars,26.0,Carolina Panthers,0.0,b5a4c3b2-3b2e-e764-f0f6-ab79dde9e250
+2023,17,12/31/2023,13:00,-5,East Rutherford,New York Giants,25.0,Los Angeles Rams,26.0,0b1c8212-3cd4-4028-5e0f-ef8e5c5c52c2
+2023,17,12/31/2023,13:00,-5,Philadelphia,Philadelphia Eagles,31.0,Arizona Cardinals,35.0,12c214ab-802d-4205-3c89-eed599868829
+2023,17,12/31/2023,13:00,-5,Baltimore,Baltimore Ravens,56.0,Miami Dolphins,19.0,44a1a7f7-355a-fd23-e907-912ff7c98baa
+2023,17,12/31/2023,12:00,-6,Chicago,Chicago Bears,37.0,Atlanta Falcons,17.0,088ea448-fe26-6b3a-1504-01a163e1c5e4
+2023,17,12/31/2023,12:00,-6,Houston,Houston Texans,26.0,Tennessee Titans,3.0,1887697c-dd6d-c3e3-7756-b4ce0b8d6703
+2023,17,12/31/2023,13:00,-5,Indianapolis,Indianapolis Colts,23.0,Las Vegas Raiders,20.0,e955ca21-2e13-c0a3-5984-20de5b87be00
+2023,17,12/31/2023,13:00,-5,Tampa Bay,Tampa Bay Buccaneers,13.0,New Orleans Saints,23.0,23cd53de-24cc-fd59-36a0-5a9a9dccc90f
+2023,17,12/31/2023,13:00,-5,Landover,Washington Commanders,10.0,San Francisco 49ers,27.0,c48027e3-3b93-aed0-76b2-0ff371bf4b8d
+2023,17,12/31/2023,13:05,-8,Seattle,Seattle Seahawks,23.0,Pittsburgh Steelers,30.0,7c015829-bc9c-d757-1be8-3fce9ebe094e
+2023,17,12/31/2023,14:25,-7,Denver,Denver Broncos,16.0,Los Angeles Chargers,9.0,8ce7d55b-f6db-713a-d1cd-ddf23e10fec6
+2023,17,12/31/2023,15:25,-6,Kansas City,Kansas City Chiefs,25.0,Cincinnati Bengals,17.0,d717faa8-3855-55eb-04c4-90849a07de4a
+2023,17,12/31/2023,19:20,-6,Minneapolis,Minnesota Vikings,10.0,Green Bay Packers,33.0,0d5f1b02-99a9-6b5d-c02c-d67a51d69af5
+2023,18,1/7/2024,20:20,-5,Miami Gardens,Miami Dolphins,14.0,Buffalo Bills,21.0,77c69f78-1760-8cba-0584-0d917faf7eec
+2023,18,1/7/2024,14:25,-7,Glendale,Arizona Cardinals,20.0,Seattle Seahawks,21.0,83fb3888-f890-125f-a60b-cd68cdb18cf9
+2023,18,1/6/2024,16:30,-5,Baltimore,Baltimore Ravens,10.0,Pittsburgh Steelers,17.0,1a75bb10-0fa7-3234-1348-8231869d438b
+2023,18,1/7/2024,13:00,-5,Charlotte,Carolina Panthers,0.0,Tampa Bay Buccaneers,9.0,2c25eb9d-6aa6-2415-ea5e-002375b5af6d
+2023,18,1/7/2024,13:00,-5,Cincinnati,Cincinnati Bengals,31.0,Cleveland Browns,14.0,acca45af-b6a5-0157-2183-a520c5ebedba
+2023,18,1/7/2024,13:00,-5,Detroit,Detroit Lions,30.0,Minnesota Vikings,20.0,5863ce24-862f-9b5d-4a3f-0a9abd49af5e
+2023,18,1/7/2024,15:25,-6,Green Bay,Green Bay Packers,17.0,Chicago Bears,9.0,6fd635e8-58a3-0371-a882-513fe9cc99ee
+2023,18,1/7/2024,13:25,-8,Inglewood,Los Angeles Chargers,12.0,Kansas City Chiefs,13.0,6595a7bc-ebc2-d71f-6ee8-29e2f1eb0ac6
+2023,18,1/7/2024,13:00,-5,Foxborough,New England Patriots,3.0,New York Jets,17.0,f06d504d-1055-0bd4-cc0e-42d531568a9a
+2023,18,1/7/2024,12:00,-6,New Orleans,New Orleans Saints,48.0,Atlanta Falcons,17.0,9d884dfc-dd66-3fc5-7a3c-47cafe76d929
+2023,18,1/7/2024,12:00,-6,Nashville,Tennessee Titans,28.0,Jacksonville Jaguars,20.0,8d3fdfab-3688-6780-5b75-fe615ef5c1c6
+2023,18,1/7/2024,16:25,-5,Landover,Washington Commanders,10.0,Dallas Cowboys,38.0,a9a0375e-5c29-8d64-9e49-01d77cb6b3c0
+2023,18,1/7/2024,16:25,-5,East Rutherford,New York Giants,27.0,Philadelphia Eagles,10.0,a3b9097e-32f7-b1bb-c972-9fd9a01cc9e2
+2023,18,1/6/2024,20:15,-5,Indianapolis,Indianapolis Colts,19.0,Houston Texans,23.0,89ef1254-2dcd-f4e1-bd2e-051f5eaf4b29
+2023,18,1/7/2024,13:25,-8,Las Vegas,Las Vegas Raiders,27.0,Denver Broncos,14.0,913a4f7b-4b92-8372-d364-5bb01d63fb4f
+2023,18,1/7/2024,13:25,-8,Santa Clara,San Francisco 49ers,20.0,Los Angeles Rams,21.0,8c6f53da-fbcc-c944-4dfe-7cd3af6b2352
