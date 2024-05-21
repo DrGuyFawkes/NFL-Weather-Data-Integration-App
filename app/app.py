@@ -11,6 +11,7 @@ def execute_query(query):
     cursor = conn.cursor()
     try:
         # Check if the query includes a LIMIT clause
+        warning = None
         if 'limit' not in query.lower():
             query += ' LIMIT 100'
             warning = "The results have been limited to 100 records."
