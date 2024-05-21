@@ -86,8 +86,11 @@ This project integrates game day weather data into an internal application for N
 
 2. **game_venue_matching.py**:
    - Matches games with venues based on location and team information.
+      - First match: Matches `game_site` from `games` with `city` from `venues`.
+      - Second match: Checks if `game_site` from `games` is a substring in `teams` from `venues`.
    - Saves the matched data to `games_with_venues.csv`.
-
+   - For special venues such as Tottenham, Mexico City, Wembley, Munich, and Frankfurt, if the game site needs to be matched, the corresponding venue information must be included in the venues.csv file..
+   
 3. **retrieve_weather_data.py**:
    - Retrieves historical weather data for the games using the Open Meteo weather API.
    - Saves the weather data to `hourly_weather.csv` and `daily_weather.csv`.
