@@ -80,6 +80,8 @@ This project integrates game day weather data into an internal application for N
 
 1. **id_generator.py**:
    - Generates UUIDs for venues and games based on specific columns.
+      - venues: `Name`
+      - games: `Season`, `Week`, `Start_Time`, `Game_Site`
    - Saves the updated data to `venues_with_uuids.csv` and `games_with_uuids.csv`.
 
 2. **game_venue_matching.py**:
@@ -111,9 +113,11 @@ The Flask application provides a web interface to execute SQL queries on the SQL
 
 Use the web interface to execute SQL queries on the combined NFL game and weather data. Example queries can include:
 
-- Average temperature during games.
-- Total precipitation and game outcomes.
-- Wind speed and game performance.
+- Query 1: Aggregated Weather Conditions for Tennessee Titans Games in 2023
+- Query 2: Weather data for Tennessee Titans Post-Game Report
+- Query 3: Games with Extreme Weather Conditions
+- Query 4: Temperature Impact on Scoring
+- Query 5: Weather Variation During Games
 
 ### Notes
 
