@@ -73,6 +73,10 @@
             color: red;
             text-align: center;
         }
+        .warning {
+            color: orange;
+            text-align: center;
+        }
     </style>
 </head>
 <body>
@@ -86,6 +90,9 @@
     </form>
     {% if error %}
     <p class="error">{{ error }}</p>
+    {% endif %}
+    {% if warning %}
+    <p class="warning">{{ warning }}</p>
     {% endif %}
     {% if column_names %}
     <table>
