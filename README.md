@@ -15,8 +15,11 @@ This project integrates game day weather data into an internal application for N
 │   ├── templates
 │   │   └── index.html
 │   └── static
-│       └── # (static files like CSS, JS if needed)
+│       └── logo.png
 ├── scripts
+│   ├── manifests
+│   │   ├── archive.yml
+│   │   └── forecast.yml
 │   ├── id_generator.py
 │   ├── game_venue_matching.py
 │   ├── retrieve_weather_data.py
@@ -26,12 +29,19 @@ This project integrates game day weather data into an internal application for N
 ├── data
 │   ├── Venues.csv
 │   ├── Games.csv
+│   ├── games_with_uuids.csv
+│   ├── venues_with_uuids.csv
 │   ├── games_with_venues.csv
 │   ├── hourly_weather.csv
 │   ├── daily_weather.csv
-│   ├── weather_data.db
+│   └── weather_data.db
+├── assets
+│   └── nfl_weather_query_app.png
+├── __init__.py
 ├── Dockerfile
 ├── requirements.txt
+├── .gitattributes
+├── .gitignore
 └── README.md
 ```
 
