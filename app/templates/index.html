@@ -29,6 +29,7 @@
             background: #fff;
             border: 1px solid #ccc;
             border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         textarea {
             width: 95%;
@@ -57,12 +58,16 @@
         table, th, td {
             border: 1px solid #ccc;
         }
-        th, td {
+        th {
+            background-color: #0b162a;
+            color: #ffffff;
             padding: 8px;
             text-align: left;
         }
-        th {
-            background-color: #f2f2f2;
+        td {
+            background-color: #ffffff;
+            padding: 8px;
+            text-align: left;
         }
         .error {
             color: red;
@@ -76,7 +81,7 @@
     </div>
     <h1>NFL Weather Query App</h1>
     <form method="POST">
-        <textarea name="query" rows="4" cols="50" placeholder="Enter your SQL query here...">{{ query }}</textarea><br><br>
+        <textarea name="query" rows="4" placeholder="Enter your SQL query here...">{{ query }}</textarea><br><br>
         <input type="submit" value="Execute Query">
     </form>
     {% if error %}
