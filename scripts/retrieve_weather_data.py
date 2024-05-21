@@ -85,7 +85,7 @@ for index, row in merged_df.iterrows():
     if daily_weather_df is not None:
         all_daily_weather_df = pd.concat([all_daily_weather_df, daily_weather_df])
     # Added because API request limit
-    time.sleep(1)
+    time.sleep(0.2)
 
 # Save the DataFrames to CSV files
 all_hourly_weather_df.to_csv(hourly_weather_file, index=False)
