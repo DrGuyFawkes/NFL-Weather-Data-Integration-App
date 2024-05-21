@@ -1,4 +1,4 @@
--- # 3: 
+-- # 3: Games with Extreme Weather Conditions
 -- Query Description:
     -- This SQL query retrieves detailed information about NFL games involving the Tennessee Titans,
     -- focusing on games where the temperature was below freezing (32°C) or there was significant precipitation (more than 1mm).
