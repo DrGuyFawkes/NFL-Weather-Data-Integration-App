@@ -37,8 +37,8 @@ except FileNotFoundError as e:
 games_df['gmt_game_datetime'] = games_df.apply(convert_to_gmt, axis=1)
 
 # Specify the columns to use for generating the UUID
-venue_columns = ['Name']  # Example columns from venues_df
-game_columns = ['Season', 'Week', 'Start_Time', 'Game_Site']  # Example columns from games_df
+venue_columns = ['Name']
+game_columns = ['Season', 'Week', 'Start_Time', 'Game_Site']
 
 # Generate UUIDs for venues_df
 venues_df['UUID'] = venues_df.apply(lambda row: generate_uuid_from_row(row, venue_columns), axis=1)
