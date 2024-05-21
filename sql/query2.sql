@@ -1,4 +1,4 @@
--- # 2: 
+-- # 2: Weather data for Tennessee Titans Post-Game Report
 -- Query Description:
     -- This SQL query retrieves detailed information about NFL games involving the Tennessee Titans during the 2023 season.
     -- It includes game details, venue details, and specific weather conditions for the time period spanning from the game start time to three hours after the game start time.
