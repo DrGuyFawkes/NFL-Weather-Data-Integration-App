@@ -93,6 +93,7 @@ This project integrates game day weather data into an internal application for N
    
 3. **retrieve_weather_data.py**:
    - Retrieves historical weather data for the games using the Open Meteo weather API.
+      - In the API call, the start_date is set to 2 days before the game_date and the end_date is set to 1 day after the game_date.
    - Saves the weather data to `hourly_weather.csv` and `daily_weather.csv`.
    - Run with the argument `--api_type` to specify the type of API to use (e.g., `archive`).
 
