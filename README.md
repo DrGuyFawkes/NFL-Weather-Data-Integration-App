@@ -113,6 +113,30 @@ The Flask application provides a web interface to execute SQL queries on the SQL
 - Defines routes and functions for the Flask web application.
 - Connects to the SQLite database and executes SQL queries.
 
+### Tables and Relationships
+
+**Tables**
+1. **games**
+   - `uuid`: Unique identifier for the game
+   - Additional fields...
+2. **venues**
+   - `uuid`: Unique identifier for the venue
+   - Additional fields...
+3. **hourly_weather**
+   - `game_uuid`: Unique identifier for the game (foreign key)
+   - `venue_uuid`: Unique identifier for the venue (foreign key)
+   - Additional fields...
+4. **daily_weather**
+   - `game_uuid`: Unique identifier for the game (foreign key)
+   - `venue_uuid`: Unique identifier for the venue (foreign key)
+   - Additional fields...
+
+**Relationships**
+1. **hourly_weather** (or **daily_weather**) and **venues**
+   - Joined on `venue_uuid` and `uuid` (`hourly_weather.venue_uuid = venues.uuid`)
+2. **hourly_weather** (or **daily_weather**) and **games**
+   - Joined on `game_uuid` and `uuid` (`hourly_weather.game_uuid = games.uuid`)
+
 ### SQL Queries
 
 Use the web interface to execute SQL queries on the combined NFL game and weather data. Example queries can include:
